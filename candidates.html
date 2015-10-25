@@ -1,0 +1,33 @@
+---
+layout: default
+title: 2015 Democratic Candidates
+---
+
+<div class="content-container">
+  <div class="page-title">
+    <h1> {{ page.title }} </h1>
+  </div><ul class="candidate-container">
+  {% for candidate in site.data.candidates %}
+    <li class="candidate-box">
+      <img src="assets/img/candidates/{{ candidate.photo }}.jpg">
+      <h2>{{ candidate.name }}</h2>
+      <h3>{{ candidate.office }}</h3>
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x twittercircle"></i>
+        <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
+      </span>
+      <a href="http://{{ candidate.website }}">{{ candidate.website }}</a><br>
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x facebookcircle"></i>
+        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <a href="https://www.facebook.com/{{ candidate.facebook }}">{{ candidate.facebook }}</a><br>
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x twittercircle"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <a href="https://twitter.com/{{ candidate.twitter }}"> &#64;{{ candidate.twitter }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>

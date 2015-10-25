@@ -1,0 +1,80 @@
+- type: State Constitutional Democratic Officers
+  officials:
+
+  - office: Governor
+    name: Steven Beshear
+    img: Steve_Beshear
+
+  - office: Lt. Governor
+    name: Crit Luallen
+    img: Crit-Luallen
+
+  - office: Secretary of State
+    name: Alison Lundergan Grimes
+    img: Alison-Grimes
+
+  - office: Attorney General
+    name: Jack Conway
+    img: Jack-Conway
+
+  - office: Auditor
+    name: Adam Edelen
+    img: adam-edelen
+
+  - office: State Treasurer
+    name: Todd Hollenbach
+    img: Todd-Hollenbach
+
+- type: County Democratic Elected Officers
+  officials:
+
+  - office: Shelbyville Mayor
+    name: Tom Hardesty
+
+  - office: Shelbyville City Council
+    name: Donna Eaton
+    
+  - office: Shelbyville City Council
+    name: Shane Suttor
+    
+  - office: Shelbyville City Council
+    name: Mike Zoeller
+
+  - office: Property Valuation Administrator
+    name: Brad McDowell
+
+  - office: County Clerk
+    name: Sue Carole Perry
+
+  - office: Sheriff
+    name: Mike Armstrong
+
+  - office: Jailer
+    name: Bobby Waits
+
+  - office: County Surveyor
+    name: George R. Best
+
+  - office: District 1 Magistrate
+    name: Hubert Pollett
+
+  - office: District 5 Magistrate
+    name: Eddie Kingsolver
+
+  - office: District 6 Magistrate
+    name: James Tony Carriss
+
+  - office: District 1 Constable
+    name: Bobby Ivers
+
+  - office: District 4 Constable
+    name: Donnie Bruner
+
+  - office: District 6 Constable
+    name: Gary L. Tindle
+
+  - office: District 7 Constable
+    name: Harold W. Sutton
+  
+  
+  

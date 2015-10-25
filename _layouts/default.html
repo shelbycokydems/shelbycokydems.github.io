@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width">
+	<!---
+
+  ____  _          _ _             ____                     
+ / ___|| |__   ___| | |__  _   _  |  _ \  ___ _ __ ___  ___ 
+ \___ \| '_ \ / _ \ | '_ \| | | | | | | |/ _ \ '_ ` _ \/ __|
+  ___) | | | |  __/ | |_) | |_| | | |_| |  __/ | | | | \__ \
+ |____/|_| |_|\___|_|_.__/ \__, | |____/ \___|_| |_| |_|___/
+                           |___/                            
+
+
+-->
+	<link rel="stylesheet" href="/assets/css/main.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+  
+  <!--[if lt IE 9]>
+    <script src="/assets/js/html5shiv.min.js"></script>
+    <script src="/assets/js/respond.min.js"></script>
+  <![endif]-->
+  
+	<script type="text/javascript" src="/assets/js/jquery-1.11.3.js"></script>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+</head>
+<body>
+
+{% include header.html %}
+	<div class="body">
+	{{ content }}
+	</div>
+{% include footer.html %}
+
+</body>
+</html>

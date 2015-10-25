@@ -1,0 +1,37 @@
+.candidate-container
+	padding: 10px 10px
+	+outer-container
+
+.candidate-box
+  +span-columns(4)
+  +omega(3n)
+  
+  img
+    width: 50%
+    
+  h2
+    color: #0f2446
+  
+  +media($mobile)
+    +span-columns(4)
+  
+  
+.meeting
+  +outer-container
+  
+#meeting-info
+  +span-columns(5)
+  font-size: 20px
+  
+  +media($mobile)
+    +span-columns(4)
+  
+#map-container
+  +span-columns(7)
+  
+  +media($mobile)
+    +span-columns(4)
+    padding-top: 10px
+  
+#map
+  height: 250px

@@ -1,0 +1,48 @@
+#title-info
+  font-size: 18px
+  
+.form-body
+  +outer-container
+
+.contact-form
+  font-size: 20px
+  padding-bottom: 20px
+  +span-columns(6)
+  
+  +media($mobile)
+    +span-columns(4)
+  
+.form-input
+  padding-bottom: 10px
+  
+  textarea
+    height: 200px
+  
+  input:not([type=checkbox]), textarea
+    width: 100%
+    
+.empty-focus
+    outline: none
+    border: 1px solid $donate-red
+    box-shadow: 0 0 5px $donate-red
+    +input-placeholder($donate-red)
+  
+.required-asterisk
+  color: $donate-red
+    
+.form-paran
+  font-size: 15px
+  color: gray
+  
+.form-checkbox
+  padding-left: 20px
+  
+.form-submit
+  border: 2px solid $donate-red
+  background-color: #fff
+  color: $donate-red
+  transition: background-color .5s
+  
+  &:hover
+    background-color: $donate-red
+    color: #fff

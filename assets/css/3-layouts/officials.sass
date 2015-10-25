@@ -1,0 +1,20 @@
+.official-container
+	padding: 10px 10px
+	+outer-container
+
+.official-box
+  +span-columns(3)
+  +omega(4n)
+  
+  img
+    width: 50%
+    
+  h2
+    color: #0f2446
+    
+  +media($mobile)
+    +span-columns(2)
+    +omega(2n)
+  
+    img
+      width: 75%

@@ -1,0 +1,68 @@
+// "Gallrein Farm" by Pen Waggener is licensed under CC BY 2.0 
+// Cropped from original
+// taken from "https://www.flickr.com/photos/epw/1472117143/in/photolist-5rNLJE-9SjzPC-dYEz4B-9SgHRT-3f5Z94-ctw9FS"
+
+#hero-image
+  +background(url(/assets/img/gallrein.jpg))
+  background-position: bottom
+  background-repeat: no-repeat
+  background-size: cover
+  padding-bottom: 3em
+
+#hero-text
+  font-size: 50px
+  font-weight: bold
+  padding: 20px 75px
+
+#home
+	+outer-container
+
+.body-column
+	width: 33.33%
+	float: left
+	padding: 20px 10px
+
+#posts-column
+	clear: both
+
+	ul>li
+		list-style: none
+	
+		h3
+			margin: 0
+
+	+media($mobile)
+		+span-columns(4)
+		text-align: left
+		padding: 10px 15px
+
+.posts
+  padding: 0
+
+#read-more
+  border: 2px solid $donate-red
+  color: $donate-red
+  background-color: #fff
+  font-size: 16px
+  padding: 10px 15px
+  transition: background-color .15s, color .15s
+  
+  &:hover
+    background-color: $donate-red
+    color: #fff
+  
+#facebook
+	text-align: center
+		
+	+media($mobile)
+		+span-columns(4)
+		text-align: center
+		padding: 10px 15px
+
+#twitter
+	text-align: center
+
+	+media($mobile)
+		+span-columns(4)
+		text-align: center
+		padding: 10px 15px

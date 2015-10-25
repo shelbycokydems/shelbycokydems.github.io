@@ -1,0 +1,57 @@
+---
+layout: default
+title: Volunteer
+---
+
+<div class="content-container">
+  <div class="page-title"><h1>{{ page.title }}</h1></div>
+  <p id="title-info">Fill this form out to receive information on how you can help the Shelby County Democratic Party!</p>
+  <div class="form-body">
+    <form class="contact-form">
+      <div class="form-input required">
+        Name <span class="required-asterisk">*</span><br>
+        <input type="text" required><br>
+      </div>
+      <div class="form-input required">
+        Email <span class="required-asterisk">*</span><br>
+        <input type="email" required><br>
+      </div>
+      <div class="form-input required">
+        City <span class="required-asterisk">*</span><br>
+        <input type="text" required><br>
+      </div>
+      <div class="form-input required">
+        Zip Code <span class="required-asterisk">*</span><br>
+        <input type="text" required></br>
+      </div>
+      <div class="form-input">
+        Phone Number <br>
+        <input type="tel"><br>
+      </div>
+      <div class="form-input">
+        I'm Interested In <br>
+        <span class="form-paran">(Check one or more boxes)</span><br>
+        <div class="form-checkbox">
+          <input type="checkbox" id="get-involved">&nbsp;<label for="get-involved">Getting Involved</label><br>
+          <input type="checkbox" id="volunteer">&nbsp;<label for="volunteer">Volunteering</label><br>
+          <input type="checkbox" id="other">&nbsp;<label for="other">Other</label><br>
+        </div>
+      </div>
+      <button type="submit" class="form-submit">Submit</button>
+    </form>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $('.required input').blur(function(){
+    if( !$(this).val() ) {
+      $(this).addClass('empty-focus');
+      $(this).attr("placeholder", "Required");
+    }
+    else {
+      $(this).removeClass('empty-focus');
+      $(this).removeAttr("placeholder");
+    }
+  });
+
+</script>

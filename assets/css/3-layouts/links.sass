@@ -1,0 +1,18 @@
+.link-body
+  +outer-container
+
+.link-list
+  +span-columns(4)
+  +omega(3n)
+    
+  ul  
+    list-style: none
+    padding: 0
+  
+    li
+      padding-bottom: 20px
+      font-size: 18px
+      font-weight: bold
+    
+  +media($mobile)
+    +span-columns(4)
