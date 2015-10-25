@@ -14,7 +14,6 @@ $(document).ready(function() {
   });
   
   moreToggle.on('click', function(e) {
-    e.preventDefault();
     $(this).find('#sub-menu').slideToggle(function(){
       if($('#sub-menu').is(':hidden')) {
         $('#sub-menu').removeAttr('style');
