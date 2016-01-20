@@ -7,34 +7,36 @@ title: Volunteer
   <div class="page-title"><h1>{{ page.title }}</h1></div>
   <p id="title-info">Fill this form out to receive information on how you can help the Shelby County Democratic Party!</p>
   <div class="form-body">
-    <form class="contact-form">
+    <form class="contact-form" action="//formspree.io/shelbycokydems@gmail.com" method="POST">
+      <input type="hidden" name="_subject" value="New Volunteer Info!" />
+      <input type="text" name="_gotcha" style="display:none" />
       <div class="form-input required">
         Name <span class="required-asterisk">*</span><br>
-        <input type="text" required><br>
+        <input type="text" name="name" required><br>
       </div>
       <div class="form-input required">
         Email <span class="required-asterisk">*</span><br>
-        <input type="email" required><br>
+        <input type="email" name="email" required><br>
       </div>
       <div class="form-input required">
         City <span class="required-asterisk">*</span><br>
-        <input type="text" required><br>
+        <input type="text" name="city" required><br>
       </div>
       <div class="form-input required">
         Zip Code <span class="required-asterisk">*</span><br>
-        <input type="text" required></br>
+        <input type="text" name="zipcode" required></br>
       </div>
       <div class="form-input">
         Phone Number <br>
-        <input type="tel"><br>
+        <input type="tel" name="phone"><br>
       </div>
       <div class="form-input">
         I'm Interested In <br>
         <span class="form-paran">(Check one or more boxes)</span><br>
         <div class="form-checkbox">
-          <input type="checkbox" id="get-involved">&nbsp;<label for="get-involved">Getting Involved</label><br>
-          <input type="checkbox" id="volunteer">&nbsp;<label for="volunteer">Volunteering</label><br>
-          <input type="checkbox" id="other">&nbsp;<label for="other">Other</label><br>
+          <input type="checkbox" id="get-involved" name="get-involved">&nbsp;<label for="get-involved">Getting Involved</label><br>
+          <input type="checkbox" id="volunteer" name="volunteer">&nbsp;<label for="volunteer">Volunteering</label><br>
+          <input type="checkbox" id="other" name="other">&nbsp;<label for="other">Other</label><br>
         </div>
       </div>
       <button type="submit" class="form-submit">Submit</button>

@@ -1,16 +1,21 @@
 	<div class="signup">
-		<div id="signup-text">Signup for Updates!</div>
-		<div id="signup-form">
-			<form>
-				<div class="signup-input">
-					<input type="text" placeholder="NAME">
-				</div>
-				<div class="signup-input">
-					<input type="email" placeholder="EMAIL">
-				</div>
-				<div class="signup-input">
-					<button type="submit">SUBSCRIBE</button>				
-				</div>
-			</form>
-		</div>
+	  <div class="signup-container">
+	    <div id="signup-text">Signup for Updates!</div>
+      <div id="signup-form">
+        <form action="//formspree.io/shelbycokydems@gmail.com" method="POST">
+          <input type="hidden" name="_subject" value="New Update Subscriber!" />
+          <input type="hidden" name="_next" value="//#" />
+          <div class="signup-input">
+            <input type="text" placeholder="NAME" name="name">
+          </div>
+          <div class="signup-input">
+            <input type="email" placeholder="EMAIL" name="email">
+          </div>
+          <input type="text" name="_gotcha" style="display:none" />
+          <div class="signup-input">
+            <button type="submit">SUBSCRIBE</button>				
+          </div>
+        </form>
+      </div>
+	  </div>
 	</div>

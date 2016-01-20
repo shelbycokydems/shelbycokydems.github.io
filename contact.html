@@ -7,18 +7,20 @@ title: Contact Us
   <div class="page-title"><h1>{{ page.title }}</h1></div>
   <p id="title-info">Fill this form out to receive information on how you can help the Shelby County Democratic Party!</p>
   <div class="form-body">
-    <form class="contact-form">
+    <form class="contact-form" action="//formspree.io/shelbycokydems@gmail.com" method="POST">
+      <input type="hidden" name="_subject" value="New Contact Message!" />
+      <input type="text" name="_gotcha" style="display:none" />
       <div class="form-input required">
         Name <span class="required-asterisk">*</span><br>
-        <input type="text" required><br>
+        <input type="text" name="name" required><br>
       </div>
       <div class="form-input required">
         Email <span class="required-asterisk">*</span><br>
-        <input type="email" required><br>
+        <input type="email" name="email" required><br>
       </div>
       <div class="form-input required">
         Message<br>
-        <textarea required></textarea><br>
+        <textarea name="message" required></textarea><br>
       </div>
       <button type="submit" class="form-submit">Submit</button>
     </form>
