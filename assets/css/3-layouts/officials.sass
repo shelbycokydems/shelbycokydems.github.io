@@ -1,6 +1,15 @@
 .official-container
 	padding: 10px 10px
-	+outer-container
+
+.level-type
+  +media($screen)
+    +span-columns(12)
+  
+  +media($tablet)
+    +span-columns(8)
+  
+  +media($mobile)
+    +span-columns(4)
 
 .official-box
   +span-columns(3)

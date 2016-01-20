@@ -1,23 +1,62 @@
 .candidate-container
 	padding: 10px 10px
-	+outer-container
 
-.candidate-box
-  +span-columns(4)
-  +omega(3n)
-  
-  img
-    width: 50%
-    
+.candidate-box    
   h2
     color: #0f2446
+  
+  +media($screen)
+    +span-columns(4)
+    +omega(3n)
+
+    img
+      width: 50%
+  
+  +media($tablet)
+    +span-columns(4)
+    +omega(2n)
+    img
+      width: 50%
+    a
+      font-size: 15px
+      
+  +media($mobile)
+    +span-columns(4)
+    img
+      width: 100%
+      
+.executive-box
+  h2
+    color: #0f2446
+  
+  +media($screen)
+    +span-columns(4)
+    +omega(3n)
+
+    img
+      width: 50%
+      height: auto
   
   +media($mobile)
     +span-columns(4)
   
+  +media($tablet)
+    +span-columns(4)
+    +omega(2n)
+    img
+      width: 100%
+    a
+      font-size: 20px
   
 .meeting
+  padding: 10px 10px 20px
   +outer-container
+  
+  +media($screen)
+    +outer-container(90%)
+  
+  +media($mobile)
+    padding: 0 10px
   
 #meeting-info
   +span-columns(5)

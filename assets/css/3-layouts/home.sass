@@ -8,33 +8,56 @@
   background-repeat: no-repeat
   background-size: cover
   padding-bottom: 3em
+  
+  +media($screen)
+    padding-bottom: 7em
 
 #hero-text
   font-size: 50px
   font-weight: bold
-  padding: 20px 75px
+  
+  +media($tablet)
+    padding: 20px 15px
+  
+  +media($screen)
+    +outer-container(90%)
 
+.content-container  
+  +media($screen)
+    +outer-container(90%)
+  
+  +media($tablet)
+    +outer-container
+    padding: 0 10px
+  
+.page-title
+  +media($tablet)
+    padding: 0 10px
 #home
-	+outer-container
+  +media($screen)
+    +outer-container(90%)
+  +media($tablet)
+    +outer-container
 
 .body-column
-	width: 33.33%
-	float: left
 	padding: 20px 10px
 
 #posts-column
-	clear: both
-
-	ul>li
-		list-style: none
-	
-		h3
-			margin: 0
-
-	+media($mobile)
-		+span-columns(4)
-		text-align: left
-		padding: 10px 15px
+  +span-columns(4)
+  
+  ul>li
+    list-style: none
+    
+    h3
+      margin: 0
+      
+  +media($mobile)
+    +span-columns(4)
+    padding: 10px 15px
+  
+  +media($tablet)
+    +span-columns(8)
+    padding: 10px 15px
 
 .posts
   padding: 0
@@ -51,18 +74,24 @@
     background-color: $donate-red
     color: #fff
   
-#facebook
-	text-align: center
-		
-	+media($mobile)
-		+span-columns(4)
-		text-align: center
+.social-container
+  +media($screen)
+    +span-columns(8)
+  +media($tablet)
+    +span-columns(8)
+    width: 100%
+    padding-top: 20px
+  
+#facebook, #twitter
+  text-align: center
+  +media($screen)
+    +span-columns(4 of 8)
+    
+  +media($tablet)
+    +span-columns(4 of 8)
+    
+  +media($mobile)
+    +span-columns(4)
+    text-align: center
 		padding: 10px 15px
-
-#twitter
-	text-align: center
-
-	+media($mobile)
-		+span-columns(4)
-		text-align: center
-		padding: 10px 15px
+    width: 100%

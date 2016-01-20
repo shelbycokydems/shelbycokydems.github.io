@@ -4,25 +4,38 @@ footer
   padding-bottom: 30px
 
 .container
-  width: 100%
-  padding:  30px 106px
-  margin: auto
+  padding: 30px 0
+  
+  +media($tablet)
+    +outer-container
+  
+  +media($screen)
+    +outer-container(90%)
 
 .footer-column
-  width: 33.3%
-  float: left
-
+  +media($screen)
+    +span-columns(4)
+  
+  +media($tablet)
+    +span-columns(8)
+    text-align: center
+  
+  +media($mobile)
+    +span-columns(4)
+  
   h3
     margin: 0
     padding-bottom: 20px
 
-  +media($mobile)
-    width: 100%
-    text-align: center
-
 #footer-contact
   p
     color: #fff
+    
+  a
+    color: #fff
+    
+    &:hover
+      text-decoration: underline
 
 #footer-middle
   text-align: center
