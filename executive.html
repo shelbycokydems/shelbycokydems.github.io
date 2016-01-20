@@ -9,7 +9,7 @@ title: Executive Committee
   </div>
   <ul class="candidate-container">
   {% for member in site.data.committee %}
-    <li class="candidate-box">
+    <li class="executive-box">
       <h2>{{ member.name }}</h2>
       {% if member.title != null %}
       <h3>{{ member.title }}</h3>
@@ -17,23 +17,23 @@ title: Executive Committee
     </li>
   {% endfor %}
   </ul>
-  <div class="meeting">
-    <div id="meeting-info">Executive Committee meetings are held every third Thursday of the month at 6:30 p.m. at the Stratton Community Center, 215 Washington Street, Shelbyville, KY. All Democrats are welcome to attend.
-    </div>
-    <div id="map-container">
-      <div id="map"></div>
-      <script type="text/javascript">
-        var map = L.map('map').setView([38.211, -85.210], 15);
+</div>
+<div class="meeting">
+  <div id="meeting-info">Executive Committee meetings are held every third Thursday of the month at 6:30 p.m. at the Stratton Community Center, 215 Washington Street, Shelbyville, KY. All Democrats are welcome to attend.
+  </div>
+  <div id="map-container">
+    <div id="map"></div>
+    <script type="text/javascript">
+      var map = L.map('map').setView([38.211, -85.210], 15);
 
-        L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roads/x={x}&y={y}&z={z}', {
-        maxZoom: 20,
-        attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
+      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 20,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
 
-        var marker = L.marker([38.2119620, -85.2109873]).addTo(map);
-        marker.bindPopup("<b>Stratton Community Center</b>").openPopup();
+      var marker = L.marker([38.2119620, -85.2109873]).addTo(map);
+      marker.bindPopup("<b>Stratton Community Center</b>").openPopup();
 
-      </script>
-    </div>
+    </script>
   </div>
 </div>
