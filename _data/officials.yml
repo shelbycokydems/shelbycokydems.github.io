@@ -1,29 +1,13 @@
 - type: State Constitutional Democratic Officers
   officials:
 
-  - office: Governor
-    name: Steven Beshear
-    img: Steve_Beshear
-
-  - office: Lt. Governor
-    name: Crit Luallen
-    img: Crit-Luallen
-
   - office: Secretary of State
     name: Alison Lundergan Grimes
     img: Alison-Grimes
 
   - office: Attorney General
-    name: Jack Conway
-    img: Jack-Conway
-
-  - office: Auditor
-    name: Adam Edelen
-    img: adam-edelen
-
-  - office: State Treasurer
-    name: Todd Hollenbach
-    img: Todd-Hollenbach
+    name: Andy Beshear
+    img: Andy-Beshear
 
 - type: County Democratic Elected Officers
   officials:
