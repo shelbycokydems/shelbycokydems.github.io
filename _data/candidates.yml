@@ -1,20 +1,62 @@
 - office: President of the United States
   name: Hillary Clinton
-  website: https://hillaryclinton.com/
+  website: https://hillaryclinton.com
   facebook: hillaryclinton
   twitter: HillaryClinton
   photo: Hillary-Clinton
-  
-- office: President of the United States
-  name: Martin O'Malley
-  website: https://martinomalley.com/
-  facebook: MartinOMalley
-  twitter: MartinOMalley
-  photo: Martin-O'Malley
-  
+
 - office: President of the United States
   name: Bernie Sanders
   website: https://berniesanders.com
   facebook: berniesanders
   twitter: BernieSanders
   photo: Bernie-Sanders
+
+- office: Kentucky House of Representatives
+  name: Cyndi Powell Skelli
+  website: http://www.cyndiskellieky.com/
+  facebook: cyndiskellieky
+  twitter: cyndiskellieky
+  photo: Cyndi-Skelli
+
+- office: US House of Representatives
+  name: Calvin Sidle
+  website: http://www.calvinsidle.com/
+  facebook: OfficialCalvinSidle
+  twitter: CalvinSidle
+  photo: Calvin-Sidle
+
+- office: US Senate
+  name: Jim Gray
+  website: http://grayforkentucky.com
+  facebook: GrayforKentucky
+  twitter: GrayforKentucky
+  photo: Jim-Gray
+
+- office: US Senate
+  name: Sellus Wilder
+  website: http://wilderforsenate.com
+  facebook: Wilder-for-US-Senate-1686376881610229
+  twitter: sellus_wilder
+  photo: Sellus-Wilder
+
+- office: US Senate
+  name: Ron Leach
+  website: http://www.ronleach4ky.com
+  facebook: Ron-Leach-for-US-Senate-466825476727124
+  twitter: ronleach4ky
+  photo: Ron-Leach
+
+- office: US Senate
+  name: Grant Short
+  website: http://www.grant4senate.com
+  facebook: grant4senate
+  twitter: grant4senator
+  photo: Grant-Short
+
+- office: US Senate
+  name: Jeff Kender
+  website: http://www.kender4senate2016.com
+  facebook: electjeffkenderky
+  twitter: kender4senate
+  photo: Jeff-Kender
