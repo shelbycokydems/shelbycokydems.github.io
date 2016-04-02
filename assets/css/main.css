@@ -766,6 +766,9 @@ footer {
   border: 2px solid #fff;
   padding: 5px;
   color: #fff; }
+  @media screen and (max-width: 1230px) {
+    #paidfor {
+      margin: 0 3em; } }
 
 #footer-social {
   text-align: center; }
@@ -997,51 +1000,56 @@ footer {
 .candidate-container {
   padding: 10px 10px; }
 
-.candidate-box h2 {
-  color: #0f2446; }
+.candidate-box {
+  padding-bottom: 2em; }
+  .candidate-box h2 {
+    color: #0f2446; }
+  @media screen and (min-width: 1231px) {
+    .candidate-box {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 31.76157%; }
+      .candidate-box:last-child {
+        margin-right: 0; }
+      .candidate-box:nth-child(3n) {
+        margin-right: 0; }
+      .candidate-box:nth-child(3n+1) {
+        clear: left; }
+      .candidate-box img {
+        width: 50%; } }
+  @media screen and (max-width: 1230px) {
+    .candidate-box {
+      float: left;
+      display: block;
+      margin-right: 3.57866%;
+      width: 48.21067%; }
+      .candidate-box:last-child {
+        margin-right: 0; }
+      .candidate-box:nth-child(2n) {
+        margin-right: 0; }
+      .candidate-box:nth-child(2n+1) {
+        clear: left; }
+      .candidate-box img {
+        width: 50%; }
+      .candidate-box a {
+        font-size: 15px; } }
+  @media screen and (max-width: 600px) {
+    .candidate-box {
+      float: left;
+      display: block;
+      margin-right: 7.42297%;
+      width: 100%; }
+      .candidate-box:last-child {
+        margin-right: 0; }
+      .candidate-box img {
+        width: 100%; } }
 
-@media screen and (min-width: 1231px) {
-  .candidate-box {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 31.76157%; }
-    .candidate-box:last-child {
-      margin-right: 0; }
-    .candidate-box:nth-child(3n) {
-      margin-right: 0; }
-    .candidate-box:nth-child(3n+1) {
-      clear: left; }
-    .candidate-box img {
-      width: 50%; } }
+.icons {
+  padding: 0; }
 
-@media screen and (max-width: 1230px) {
-  .candidate-box {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 48.21067%; }
-    .candidate-box:last-child {
-      margin-right: 0; }
-    .candidate-box:nth-child(2n) {
-      margin-right: 0; }
-    .candidate-box:nth-child(2n+1) {
-      clear: left; }
-    .candidate-box img {
-      width: 50%; }
-    .candidate-box a {
-      font-size: 15px; } }
-
-@media screen and (max-width: 600px) {
-  .candidate-box {
-    float: left;
-    display: block;
-    margin-right: 7.42297%;
-    width: 100%; }
-    .candidate-box:last-child {
-      margin-right: 0; }
-    .candidate-box img {
-      width: 100%; } }
+.icons-link {
+  display: inline-block; }
 
 .executive-box h2 {
   color: #0f2446; }
@@ -1233,3 +1241,42 @@ footer {
       width: 100%; }
       .link-list:last-child {
         margin-right: 0; } }
+
+#special {
+  text-align: center;
+  background-color: #0f2446;
+  font-size: 22px; }
+  #special a {
+    color: #fff;
+    -webkit-transition: color 0.15s, underline 0.15s;
+            transition: color 0.15s, underline 0.15s; }
+    #special a:hover {
+      color: #ee5a5a;
+      text-decoration: underline; }
+
+.special-hero {
+  background: url(/assets/img/c-sanders.jpg);
+  background: url(/assets/img/c-sanders.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 3em; }
+
+.special-tint {
+  color: #fff;
+  padding-top: 1em; }
+  .special-tint #special-title {
+    font-size: 1em; }
+  .special-tint #special-details {
+    font-size: 0.5em; }
+
+.special-container {
+  text-align: center; }
+
+#speakers > p {
+  font-size: 2em;
+  font-weight: 700; }
+
+.info {
+  padding-bottom: 20px;
+  font-size: 1.5em; }
