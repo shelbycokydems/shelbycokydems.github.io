@@ -997,6 +997,10 @@ footer {
       .post-right:last-child {
         margin-right: 0; } }
 
+.news-posts {
+  padding: 0;
+  list-style: none; }
+
 .candidate-container {
   padding: 10px 10px; }
 
