@@ -1,0 +1,15 @@
+{% assign list = page.galleries[include.gallery]%}
+<ul class="bxslider">
+  {% for img in list%}
+    <li><img src="/assets/img/{{ img.url }}"></li>
+  {% endfor %}
+</ul>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.bxslider').bxSlider({
+      adaptiveHeight: true,
+      mode: 'fade'
+    });
+  });
+</script>
