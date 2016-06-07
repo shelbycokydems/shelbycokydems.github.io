@@ -619,6 +619,15 @@ ul li.nav-link {
 .signup-input {
   float: left;
   padding-left: 20px; }
+  .signup-input input[type=submit] {
+    color: #e31818;
+    border: 2px solid #e31818;
+    background-color: #fff;
+    -webkit-transition: background-color 0.15s, color 0.15s;
+            transition: background-color 0.15s, color 0.15s; }
+    .signup-input input[type=submit]:hover {
+      background-color: #e31818;
+      color: #fff; }
   @media screen and (max-width: 1230px) {
     .signup-input {
       width: 100%;
@@ -655,6 +664,8 @@ ul li.nav-link {
     height: 200px; }
   .form-input input:not([type=checkbox]), .form-input textarea {
     width: 100%; }
+  .form-input ul {
+    list-style: none; }
 
 .empty-focus {
   outline: none;
