@@ -1270,9 +1270,9 @@ footer {
       text-decoration: underline; }
 
 .special-hero {
-  background: url(/assets/img/c-sanders.jpg);
-  background: url(/assets/img/c-sanders.jpg);
-  background-position: top;
+  background-image: -webkit-linear-gradient(rgba(15, 36, 70, 0.65), rgba(15, 36, 70, 0.65)), url(/assets/img/clearcreek.jpg);
+  background-image: linear-gradient(rgba(15, 36, 70, 0.65), rgba(15, 36, 70, 0.65)), url(/assets/img/clearcreek.jpg);
+  background-position: 0 25%;
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 3em; }
