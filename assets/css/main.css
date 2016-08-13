@@ -800,7 +800,9 @@ footer {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 3em; }
+  padding-bottom: 3em;
+  position: relative;
+  z-index: -1; }
   @media screen and (min-width: 1231px) {
     #hero-image {
       padding-bottom: 7em; } }
@@ -820,6 +822,18 @@ footer {
         clear: both;
         content: "";
         display: table; } }
+
+.pic-detail {
+  font-size: 12px;
+  background-color: rgba(128, 128, 128, 0.75);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 0 5px; }
+  .pic-detail a {
+    color: white; }
+    .pic-detail a:hover {
+      color: #cccccc; }
 
 @media screen and (min-width: 1231px) {
   .content-container {

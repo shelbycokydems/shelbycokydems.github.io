@@ -8,6 +8,8 @@
   background-repeat: no-repeat
   background-size: cover
   padding-bottom: 3em
+  position: relative
+  z-index: -1
 
   +media($screen)
     padding-bottom: 7em
@@ -21,6 +23,18 @@
 
   +media($screen)
     +outer-container(90%)
+
+.pic-detail
+  font-size: 12px
+  background-color: rgba(gray, .75)
+  position: absolute
+  right: 0
+  bottom: 0
+  padding: 0 5px
+  a
+    color: white
+    &:hover
+      color: darken(white, 20%)
 
 .content-container
   +media($screen)
