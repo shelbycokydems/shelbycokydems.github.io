@@ -88,3 +88,19 @@ body
 
 .body
   clear: both
+
+
+.box-highlight
+  color: $highlight-red
+  border: 3px solid $highlight-red
+  background-color: #fff
+  font-weight: 700
+  text-transform: uppercase
+  transition: background-color .7s ease, color .7s ease
+
+  &:hover
+    background-color: $highlight-red
+    color: white
+
+  +media($tablet)
+    text-align: center

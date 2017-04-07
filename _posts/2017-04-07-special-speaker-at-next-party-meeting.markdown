@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Shelby County Democratic Party Meeting with guest speaker Colmon Elridge"
+date: 2017-04-07
+published: true
+excerpt_separator: <!--more-->
+---
+
+The Shelby County Democratic Party is excited to announce that Colmon Elridge will be the featured guest speaker at our monthly meeting on April 18th, 2017.  His remarks will be focused on the topic of "How do we recruit good candidates?"
+<!--more-->
+
+
+<img style="height: 250px" src="/assets/img/Colmon-Elridge-III.jpg">
+
+Colmon Elridge, III currently serves as the Director of the Council for State Governments National Center for Interstate Compacts.  At the age of 26 he was appointed to be Executive Assistant to Governor Steve Beshear, becoming one of the youngest members of a Governor's senior staff in the history of the commonwealth.  He has held many leadership positions within the Democratic Party in the past including Executive Vice-President of the Young Democrats of America, President of the College Democrats of Kentucky, Chair of the Minority Caucus of the College Democrats of America, just to name a few.  He also serves as the Vice President of Global Development and Membership for the International Coach Federation.

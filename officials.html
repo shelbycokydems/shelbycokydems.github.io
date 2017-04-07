@@ -10,7 +10,7 @@ title: Elected Officials
   {% for level in site.data.officials %}
     <h2 class="level-type">{{ level.type }}</h2>
     <ul class="official-container">
-      {% for official in level.officials in %}
+      {% for official in level.officials %}
       <li class="official-box">
         {% if official.img != null %}
           <img src="assets/img/officials/{{ official.img }}.jpg">
