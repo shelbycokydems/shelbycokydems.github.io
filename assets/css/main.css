@@ -450,8 +450,23 @@ body {
 .body {
   clear: both; }
 
+.box-highlight {
+  color: #e31818;
+  border: 3px solid #e31818;
+  background-color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-transition: background-color .7s ease, color .7s ease;
+  transition: background-color .7s ease, color .7s ease; }
+  .box-highlight:hover {
+    background-color: #e31818;
+    color: white; }
+  @media screen and (max-width: 1230px) {
+    .box-highlight {
+      text-align: center; } }
+
 header {
-  padding-top: 10px; }
+  padding: 10px 0; }
   @media screen and (max-width: 1230px) {
     header {
       padding: 0; } }
@@ -559,18 +574,6 @@ ul li.nav-link {
       ul li.nav-link ul {
         position: static; } }
 
-#donate {
-  color: #e31818;
-  border: 2px solid #e31818;
-  -webkit-transition: background-color .15s, color .15s;
-  transition: background-color .15s, color .15s; }
-  #donate:hover {
-    background-color: #e31818;
-    color: white; }
-  @media screen and (max-width: 1230px) {
-    #donate {
-      text-align: center; } }
-
 .signup {
   background-color: #0f2446;
   padding: 15px 75px;
@@ -607,15 +610,6 @@ ul li.nav-link {
 #signup-form {
   float: right;
   font-size: 16px; }
-  #signup-form button {
-    color: #e31818;
-    border: 2px solid #e31818;
-    background-color: #fff;
-    -webkit-transition: background-color .15s, color .15s;
-    transition: background-color .15s, color .15s; }
-    #signup-form button:hover {
-      background-color: #e31818;
-      color: #fff; }
   @media screen and (max-width: 1230px) {
     #signup-form {
       float: none; } }
@@ -623,15 +617,6 @@ ul li.nav-link {
 .signup-input {
   float: left;
   padding-left: 20px; }
-  .signup-input input[type=submit] {
-    color: #e31818;
-    border: 2px solid #e31818;
-    background-color: #fff;
-    -webkit-transition: background-color .15s, color .15s;
-    transition: background-color .15s, color .15s; }
-    .signup-input input[type=submit]:hover {
-      background-color: #e31818;
-      color: #fff; }
   @media screen and (max-width: 1230px) {
     .signup-input {
       width: 100%;
@@ -696,14 +681,7 @@ ul li.nav-link {
   padding-left: 20px; }
 
 .form-submit {
-  border: 2px solid #e31818;
-  background-color: #fff;
-  color: #e31818;
-  -webkit-transition: background-color .5s;
-  transition: background-color .5s; }
-  .form-submit:hover {
-    background-color: #e31818;
-    color: #fff; }
+  font-size: .9em; }
 
 footer {
   background-color: #0f2446;
@@ -921,17 +899,8 @@ footer {
 .posts {
   padding: 0; }
 
-#read-more {
-  border: 2px solid #e31818;
-  color: #e31818;
-  background-color: #fff;
-  font-size: 16px;
-  padding: 10px 15px;
-  -webkit-transition: background-color .15s, color .15s;
-  transition: background-color .15s, color .15s; }
-  #read-more:hover {
-    background-color: #e31818;
-    color: #fff; }
+.read-more {
+  padding: 10px 15px; }
 
 @media screen and (min-width: 1231px) {
   .social-container {

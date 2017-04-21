@@ -1,7 +1,7 @@
 $(document).ready(function(){
   var menuToggle = $('#mobile-menu-button').unbind();
   var moreToggle = $('.more').unbind();
-  
+
   $('#nav-menu').removeClass("show");
 
   menuToggle.on('click', function(e){
@@ -12,12 +12,12 @@ $(document).ready(function(){
       }
     });
   });
-  
+
   moreToggle.on('click', function(e){
     $(this).find('#sub-menu').slideToggle(function(){
       if($('#sub-menu').is(':hidden')) {
         $('#sub-menu').removeAttr('style');
       }
     });
-  }); 
+  });
 });

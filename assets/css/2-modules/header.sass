@@ -1,23 +1,23 @@
 header
-  padding-top: 10px
-  
+  padding: 10px 0
+
   +media($tablet)
     padding: 0
-  
+
   +media($screen)
     +outer-container(90%)
-    
+
 .logo
   padding: 10px 15px
-  
+
   img
     float: left
     width: 100px
-    
+
     +media($mobile)
       text-align: center
       width: 50px
-    
+
 #partyname
   float: left
   color: $link-color
@@ -25,33 +25,33 @@ header
   font-family: Montserrat
   padding: 36px 10px
   margin: 0
-  
+
   a:hover
     color: $link-color
-  
+
   +media($tablet)
     font-size: 3.75vw
     padding: 23px 10px
-  
+
 #mobile-menu-button
   display: none
-  
+
   +media($tablet)
     display: block
     float: right
     margin-top: 4%
-  
+
 #navbar
   float: right
   margin-top: 32px
-  
+
   +media($tablet)
     float: none
     position: relative
     margin-top: 0
     padding-bottom: 10px
     clear: both
-  
+
 ul.nav-menu
   list-style: none
   position: relative
@@ -71,13 +71,13 @@ ul.nav-menu
     padding: 0 15px
     font-size: 16px
     text-transform: uppercase
-    
+
   +media($tablet)
     position: absolute
     right: 0
     width: 100%
     display: none
-    
+
 ul li.nav-link
   position: relative
   display: inline-block
@@ -103,21 +103,9 @@ ul li.nav-link
   +media($tablet)
     display: block
     text-align: right
-  
+
     &:last-child
       padding: 0 10px 10px
 
     ul
       position: static
-  
-#donate
-  color: $donate-red
-  border: 2px solid $donate-red
-  transition: background-color .15s, color .15s
-  
-  &:hover
-    background-color: $donate-red
-    color: white
-  
-  +media($tablet)
-    text-align: center
