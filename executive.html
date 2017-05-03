@@ -17,23 +17,23 @@ title: Executive Committee
     </li>
   {% endfor %}
   </ul>
-</div>
-<div class="meeting">
-  <div id="meeting-info">Executive Committee meetings are held every third Tuesday of the month at 6:30 p.m. at the Stratton Community Center, 215 Washington Street, Shelbyville, KY. All Democrats are welcome to attend.
-  </div>
-  <div id="map-container">
-    <div id="map"></div>
-    <script type="text/javascript">
-      var map = L.map('map').setView([38.211, -85.210], 15);
+  <div class="meeting">
+    <div class="meeting__info">Executive Committee meetings are held every third Tuesday of the month at 6:30 p.m. at the Stratton Community Center, 215 Washington Street, Shelbyville, KY. All Democrats are welcome to attend.
+    </div>
+    <div class="meeting__map">
+      <div id="map"></div>
+      <script type="text/javascript">
+        var map = L.map('map').setView([38.211, -85.210], 15);
 
-      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 20,
-      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }).addTo(map);
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 20,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
 
-      var marker = L.marker([38.2119620, -85.2109873]).addTo(map);
-      marker.bindPopup("<b>Stratton Community Center</b>").openPopup();
+        var marker = L.marker([38.2119620, -85.2109873]).addTo(map);
+        marker.bindPopup("<b>Stratton Community Center</b>").openPopup();
 
-    </script>
+      </script>
+    </div>
   </div>
 </div>

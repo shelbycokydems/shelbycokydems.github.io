@@ -2,7 +2,15 @@
 // Cropped from original
 // taken from "https://www.flickr.com/photos/epw/1472117143/in/photolist-5rNLJE-9SjzPC-dYEz4B-9SgHRT-3f5Z94-ctw9FS"
 
-#hero-image
+//General CSS
+.content-container
+  +outer-container(90%)
+
+.page-title
+  font-size: 1.25em
+//Home CSS
+
+.heroimage
   +background(url(/assets/img/gallrein.jpg))
   background-position: bottom
   background-repeat: no-repeat
@@ -14,50 +22,14 @@
   +media($screen)
     padding-bottom: 7em
 
-#hero-text
+.heroimage__text
+  +outer-container(90%)
   font-size: 50px
   font-weight: bold
 
-  +media($tablet)
-    padding: 20px 15px
-
-  +media($screen)
-    +outer-container(90%)
-
-.pic-detail
-  font-size: 12px
-  background-color: rgba(gray, .75)
-  position: absolute
-  right: 0
-  bottom: 0
-  padding: 0 5px
-  a
-    color: white
-    &:hover
-      color: darken(white, 20%)
-
-.content-container
-  +media($screen)
-    +outer-container(90%)
-
-  +media($tablet)
-    +outer-container
-    padding: 0 10px
-
-.page-title
-  +media($tablet)
-    padding: 0 10px
-#home
-  +media($screen)
-    +outer-container(90%)
-  +media($tablet)
-    +outer-container
-
-.body-column
-	padding: 20px 10px
-
-#posts-column
+.body-column--posts
   +span-columns(4)
+  padding: 10px 15px
 
   ul>li
     list-style: none
@@ -65,13 +37,14 @@
     h3
       margin: 0
 
-  +media($mobile)
-    +span-columns(4)
-    padding: 10px 15px
+  +media($screen)
+    padding: 0
 
   +media($tablet)
     +span-columns(8)
-    padding: 10px 15px
+
+  +media($mobile)
+    +span-columns(4)
 
 .posts
   padding: 0
@@ -80,14 +53,19 @@
   padding: 10px 15px
 
 .social-container
+  padding-top: 20px
+
   +media($screen)
     +span-columns(8)
+    padding-top: 0
+
   +media($tablet)
     +span-columns(8)
-    width: 100%
-    padding-top: 20px
 
-#facebook, #twitter
+  +media($mobile)
+    +span-columns(4)
+
+.body-column--social
   text-align: center
   +media($screen)
     +span-columns(4 of 8)
@@ -97,6 +75,4 @@
 
   +media($mobile)
     +span-columns(4)
-    text-align: center
 		padding: 10px 15px
-    width: 100%

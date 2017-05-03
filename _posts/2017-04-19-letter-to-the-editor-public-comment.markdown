@@ -26,6 +26,6 @@ For those of you that may be wondering, Shelby County is unique in this regard f
 
 And so to those of you that believe that your voice should be heard at public meetings, I would only remind you that 2018 is an election year.  The filing deadline to run for County Judge/Executive or any other local partisan office is January 30, 2018.  
 
-Austin Redmon
-Bagdad, KY
+Austin Redmon  
+Bagdad, KY  
 April 2017

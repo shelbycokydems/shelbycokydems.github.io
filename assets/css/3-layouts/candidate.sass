@@ -58,28 +58,28 @@
       font-size: 20px
 
 .meeting
-  padding: 10px 10px 20px
-  +outer-container
+	+span-columns(12)
+	padding: 10px 0
 
-  +media($screen)
-    +outer-container(90%)
+.meeting__info
+	+span-columns(5)
+	font-size: 20px
 
-  +media($mobile)
-    padding: 0 10px
+	+media($tablet)
+		+span-columns(8)
 
-#meeting-info
-  +span-columns(5)
-  font-size: 20px
+	+media($mobile)
+		+span-columns(4)
 
-  +media($mobile)
-    +span-columns(4)
+.meeting__map
+	+span-columns(7)
 
-#map-container
-  +span-columns(7)
+	+media($tablet)
+		+span-columns(8)
 
-  +media($mobile)
-    +span-columns(4)
-    padding-top: 10px
+	+media($mobile)
+		+span-columns(4)
+		padding-top: 10px
 
 #map
-  height: 250px
+ height: 250px

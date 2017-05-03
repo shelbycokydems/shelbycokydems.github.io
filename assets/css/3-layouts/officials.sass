@@ -4,26 +4,30 @@
 .level-type
   +media($screen)
     +span-columns(12)
-  
+
   +media($tablet)
     +span-columns(8)
-  
+
   +media($mobile)
     +span-columns(4)
 
 .official-box
-  +span-columns(3)
-  +omega(4n)
-  
-  img
-    width: 50%
-    
-  h2
-    color: #0f2446
-    
-  +media($mobile)
-    +span-columns(2)
-    +omega(2n)
-  
-    img
-      width: 75%
+	+span-columns(3)
+	+omega(4n)
+
+	img
+		width: 50%
+
+	h2
+		color: $secondary-blue
+
+	+media($tablet)
+		img
+			width: 75%
+
+	+media($mobile)
+		+span-columns(2)
+		+omega(2n)
+
+		img
+			width: 75%

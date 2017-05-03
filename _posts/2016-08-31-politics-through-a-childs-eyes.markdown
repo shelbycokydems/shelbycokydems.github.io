@@ -41,6 +41,6 @@ Make America great again? My America has been great every single day of my life.
 Have that honest moment with yourself before you go to the polls in November. Realize the impact that this election will have on our great nation—a nation that is great because of the ideals it upholds, not because of the wealth it accumulates. If you wouldn’t teach your kids to say things that Trump has said, and I know I wouldn’t allow mine to, then please do the decent thing and find someone else to vote for. Find someone who has some decency. Cast your vote for that person.
 
 
-Andy Schmidt
-Shelbyville, KY
+Andy Schmidt  
+Shelbyville, KY  
 August 2016

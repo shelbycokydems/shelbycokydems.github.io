@@ -1,0 +1,60 @@
+.yd-hero-image
+  +background-image(linear-gradient(rgba($secondary-blue, 0.1), rgba($secondary-blue, 0.1)), url(/assets/img/horse.jpg))
+  background-position: center
+  background-repeat: no-repeat
+  background-size: cover
+  padding-bottom: 3em
+  position: relative
+
+  +media($screen)
+    padding: 7em 0
+
+.yd-hero-text
+  font-size: 50px
+  font-weight: bold
+  color: white
+  text-shadow: 1px 1px 5px black
+
+  +media($tablet)
+    padding: 20px 15px
+
+  +media($screen)
+    +outer-container(90%)
+
+.yd-container
+  +outer-container(90%)
+
+.yd-info-container
+  +span-columns(7)
+
+.yd-social-container
+  +span-columns(4)
+
+.officers
+  +span-columns(7 of 7)
+  padding-bottom: 20px
+
+.officer-pic
+  +span-columns(2 of 7)
+
+.officer-info
+  +span-columns(5 of 7)
+
+  .officer-name
+    font-size: 2em
+
+  .officer-title
+    font-size: 1.25em
+
+.upcoming-events-head
+  text-align: center
+  text-decoration: underline
+  font-size: 1.75em
+  padding-bottom: 10px
+
+.event-info
+  font-size: 1.25em
+
+.event-link
+  font-size: 1.75em
+  text-align: center

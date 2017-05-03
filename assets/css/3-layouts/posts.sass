@@ -1,9 +1,11 @@
-.post-container
-  +outer-container
-
 .post-left
   +span-columns(8)
-  padding-right: 50px
+
+  +media($screen)
+    padding-right: 50px
+
+  +media($tablet)
+    padding-right: 25px
 
   +media($mobile)
     +span-columns(4)

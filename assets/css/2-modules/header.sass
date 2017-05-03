@@ -1,63 +1,65 @@
+//media queries go from largest to smallest
+
 header
-  padding: 10px 0
+  +outer-container(90%)
+  padding: 15px 0
 
-  +media($tablet)
-    padding: 0
+.logo__img
+  float: left
+  width: 100px
 
-  +media($screen)
-    +outer-container(90%)
+  +media($mobile)
+    text-align: center
+    width: 50px
 
-.logo
-  padding: 10px 15px
-
-  img
-    float: left
-    width: 100px
-
-    +media($mobile)
-      text-align: center
-      width: 50px
-
-#partyname
+.logo__name
   float: left
   color: $link-color
-  font-size: 2vw
+  font-size: 3.75vw
   font-family: Montserrat
-  padding: 36px 10px
+  font-weight: bold
   margin: 0
 
-  a:hover
-    color: $link-color
+  +media($screen)
+    font-size: 2vw
+    padding: 36px 10px
 
   +media($tablet)
-    font-size: 3.75vw
-    padding: 23px 10px
+    padding: 36px 10px
+
+  +media($mobile)
+    padding: 17px 10px
 
 #mobile-menu-button
-  display: none
+  display: block
+  float: right
+  margin-top: 4.5%
 
-  +media($tablet)
-    display: block
-    float: right
-    margin-top: 4%
+  +media($screen)
+    display: none
 
 #navbar
-  float: right
-  margin-top: 32px
-
-  +media($tablet)
-    float: none
-    position: relative
-    margin-top: 0
-    padding-bottom: 10px
-    clear: both
-
-ul.nav-menu
-  list-style: none
+  float: none
   position: relative
+  margin-top: 0
+  padding-bottom: 10px
+  clear: both
+
+  +media($screen)
+    float: right
+    position: inherit
+    margin-top: 42px
+    padding-bottom: 0
+    clear: inherit
+
+.nav-menu
+  list-style: none
+  position: absolute
   float: left
   margin: 0
   padding: 0
+  right: 0
+  display: none
   background-color: #fff
 
   &.show
@@ -72,21 +74,26 @@ ul.nav-menu
     font-size: 16px
     text-transform: uppercase
 
-  +media($tablet)
-    position: absolute
-    right: 0
-    width: 100%
-    display: none
+  +media($screen)
+    position: relative
+    display: inherit
 
-ul li.nav-link
+  +media($tablet)
+    width: 100%
+
+  +media($mobile)
+    width: 100%
+
+.nav-link
   position: relative
-  display: inline-block
+  display: block
+  text-align: right
   margin: 0
   padding: 0
 
   ul
     display: none
-    position: absolute
+    position: static
     top: 100%
     left: 0
     background: #f6f6f6
@@ -100,12 +107,12 @@ ul li.nav-link
       line-height: 120%
       padding: 10px 15px
 
-  +media($tablet)
-    display: block
-    text-align: right
-
-    &:last-child
-      padding: 0 10px 10px
+  +media($screen)
+    display: inline-block
+    text-align: inherit
 
     ul
-      position: static
+      position: absolute
+
+.nav-link--donate
+  padding: 0 10px 10px

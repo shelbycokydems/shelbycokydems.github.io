@@ -4,42 +4,46 @@
   overflow: auto
   width: 100%
 
-  +media($mobile)
-    padding: 0
-
   +media($screen)
     padding: 15px 0
 
-.signup-container
-  +media($screen)
-    +outer-container(90%)
+  +media($mobile)
+    padding: 0
 
-#signup-text
+.signup__container
+  +outer-container(90%)
+
+.signup__text
   font-size: 22px
   float: left
   color: #fff
   margin: 0
+  width: 100%
+  padding-bottom: 15px
+  text-align: center
 
-  +media($tablet)
-    width: 100%
-    padding-bottom: 15px
-    text-align: center
+  +media($screen)
+    width: inherit
+    padding-bottom: 0
+    text-align: inherit
 
-#signup-form
-  float: right
+.signup__form
+  float: none
   font-size: 16px
 
-  +media($tablet)
-    float: none
+  +media($screen)
+    float: right
 
-.signup-input
+.signup__input
   float: left
-  padding-left: 20px
+  width: 100%
+  padding-bottom: 15px
+  text-align: center
 
-  +media($tablet)
-    width: 100%
-    padding: 0 20px 15px
-    text-align: center
+  +media($screen)
+    width: inherit
+    padding: 0 0 0 20px
+    text-align: inherit
 
   input
     height: 35px
