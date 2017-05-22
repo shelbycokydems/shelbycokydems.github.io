@@ -1,20 +1,21 @@
-- name: Fielding Ballard
-  title: Chair
+- name: Andy Schmidt
+  title: Interim Chair
 
-- name: Jane Elkin Thomas
-  title: Vice-Chair
+- name: Linda Bullock
+  title: Interim Vice-Chair
 
-- name: Cindy Green
+- name: Sydney Lawson
   title: Treasurer
+
+- name: Kathy Mason
+  title: Secretary
 
 - name: Clayton Brown
   title: Young Democrats President
 
+- name: Fielding Ballard
+
 - name: Tabitha Browning
-
-- name: Cyndi Powell Skellie
-
-- name: Linda Bullock
 
 - name: Roland Dale
 
@@ -28,8 +29,6 @@
 
 - name: Jim O'Malley
 
-- name: Kathy Mason
-
 - name: Sue Carole Perry
 
 - name: Austin Redmon
@@ -40,6 +39,8 @@
 
 - name: Fred Rothenburger
 
-- name: Andy Schmidt
+- name: Cyndi Powell Skellie
 
 - name: Bonnie Slaughter
+
+- name: Jane Elkin Thomas
