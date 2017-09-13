@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We are looking for local writers"
-date: 2017-06-09
+date: 2017-09-13
 published: true
 excerpt_separator: <!--more-->
 ---
