@@ -9,12 +9,8 @@ excerpt_separator: <!--more-->
 
 The Shelby County Democratic Party is looking for local residents to write about issues important to them.
 <!--more-->
-We are looking for people with a personal testimony to give as it relates to the political issues facing our nation, our state, and our county.
+Have you ever wanted to respond to some of the hideous nonsense going on in the world today? Well, rather than yelling at your computer, TV, or radio come join a group of like-minded folks that are channeling their frustration by writing about it. 
 
-Has the Affordable Care Act benefited your family? We want you!
+We need writers who can convey their thoughts in a passionate yet professional way that will reach across a wide spectrum of people. You will have help and encouragement from many talented writers. 
 
-Do you have a public pension and care about possible changes? We want you!
-
-Are you personally affected by the infrastructure problems facing our community? We want you!
-
-Your personal experience can be an effective means of persuasion for voters to take action. No matter how well you think you can write, we have talented professionals ready to help you share your story. Contact us at [shelbycokydems@gmail.com](mailto:shelbycokydems@gmail.com) if you are interested!
+Contact us at [shelbycokydems@gmail.com](mailto:shelbycokydems@gmail.com) if you are interested!
