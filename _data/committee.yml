@@ -1,11 +1,8 @@
-- name: Andy Schmidt
-  title: Interim Chair
-
-- name: Linda Bullock
-  title: Interim Vice-Chair
-
 - name: Kathy Mason
-  title: Secretary
+  title: Chair
+
+- name: Bill Young
+  title: Vice-Chair
 
 - name: Sydney Lawson
   title: Treasurer
@@ -16,6 +13,8 @@
 - name: Fielding Ballard
 
 - name: Tabitha Browning
+
+- name: Linda Bullock
 
 - name: Roland Dale
 
@@ -37,10 +36,10 @@
 
 - name: Fred Rothenburger
 
+- name: Andy Schmidt
+
 - name: Cyndi Powell Skellie
 
 - name: Bonnie Slaughter
 
 - name: Jane Elkin Thomas
-
-- name: Bill Young
