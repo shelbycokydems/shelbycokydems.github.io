@@ -7,8 +7,8 @@ excerpt_separator: <!--more-->
 ---
 
 
-Recently, a Facebook group commemorated the life of my high school homeroom teacher. She welcomed groups of teenagers for years at SCHS.
-<!--more-->
+Recently, a Facebook group commemorated the life of my high school homeroom teacher.<!--more-->She welcomed groups of teenagers for years at SCHS.
+
 I remember going to her when I had clothing that was dysfunctional and needed safety pins or a needle and thread. She often baked cookies for her homeroom and always had a smile. The comments beneath the obituary came from generations of people who had warm thoughts and sincere empathy for her family.
 
 This made me think about the many teachers who have served Shelby County Public Schools. Teaching in a small community is unique and rewarding, but challenging and difficult at times. Teaching becomes more than a career, it is a lifestyle.
