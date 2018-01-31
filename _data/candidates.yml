@@ -1,27 +1,167 @@
-- office: President of the United States
-  name: Hillary Clinton
-  website: www.hillaryclinton.com
-  facebook: hillaryclinton
-  twitter: HillaryClinton
-  photo: Hillary-Clinton
-
-- office: US Senate
-  name: Jim Gray
-  website: grayforkentucky.com
-  facebook: GrayforKentucky
-  twitter: GrayforKentucky
-  photo: Jim-Gray
-
-- office: Kentucky House of Representatives
-  name: Cyndi Powell Skelli
-  website: www.skellieforky.com/
-  facebook: skellieforky
-  twitter: Skellie4KY
-  photo: Cyndi-Skelli
+- office: US House of Representatives
+  name: Seth Hall
+  website: www.sethbhallforcongress.com/
+  facebook: sethhallforcongress
+  twitter: HallCongress
+  photo: seth-hall
 
 - office: US House of Representatives
-  name: Calvin Sidle
-  website: www.calvinsidle.com/
-  facebook: OfficialCalvinSidle
-  twitter: CalvinSidle
-  photo: Calvin-Sidle
+  name: Christina Lord
+  website: www.lord4congress.com/
+  facebook: Lord4congress
+  twitter: Lord4Congress
+  photo: christina-lord
+
+- office: US House of Representatives
+  name: Patti Piatt
+  website: www.piattforcongress.com/
+  facebook: piattforcongress
+  twitter: PiattPatti
+  photo: patti-piatt
+
+- office: Kentucky State Senate
+  name: Dave Suetholz
+  website: www.suetholzforsenate.com/
+  facebook: suetholzforsenate
+  twitter: kentuckydave
+  photo: dave-suetholz
+
+- office: Kentucky House of Representatives
+  name: Bobby Lacer
+  website:
+  facebook: Lacer4KY
+  twitter: bobbylacer
+  photo: bobby-lacer
+
+- office: Magistrate District 1
+  name: Ross Webb
+  website:
+  facebook:
+  twitter:
+  photo: ross-webb
+
+- office: Magistrate District 2
+  name: Shauna Kay Cook
+  website:
+  facebook:
+  twitter:
+  photo: shauna-cook
+
+- office: Magistrate District 5
+  name: Eddie Kingsolver
+  website:
+  facebook:
+  twitter:
+  photo: eddie-kingsolver
+
+- office: Magistrate District 6
+  name: Andrew "AJ" Barnett
+  website:
+  facebook:
+  twitter:
+  photo: aj-barnett
+
+- office: Magistrate District 6
+  name: Ashley Snider
+  website:
+  facebook:
+  twitter:
+  photo: ashley-snider
+
+- office: Magistrate District 7
+  name: Rick Long
+  website:
+  facebook:
+  twitter:
+  photo: rick-long
+
+- office: County Clerk
+  name: Sue Carole Perry
+  website:
+  facebook:
+  twitter:
+  photo: sue-carole
+
+- office: Circuit Court Clerk
+  name: Austin Redmon
+  website: www.austinredmon.com/
+  facebook: AustinRedmonforCircuitCourtClerk
+  twitter:
+  photo: austin-redmon
+
+- office: Property Valuation Administrator
+  name: Brad McDowell
+  website:
+  facebook:
+  twitter:
+  photo: brad-mcdowell
+
+- office: Sheriff
+  name: Fred Rothenburger
+  website:
+  facebook: FredRothenburgerforSheriffif2018
+  twitter:
+  photo: fred-rothenburger
+
+- office: Sheriff
+  name: Gene Witt
+  website:
+  facebook: Gene-Witt-for-Shelby-County-Sheriff-1895517227432649
+  twitter:
+  photo: gene-witt
+
+- office: Jailer
+  name: Norris Beckley
+  website:
+  facebook:
+  twitter:
+  photo: norris-beckley
+
+- office: County Surveyor
+  name: George Best
+  website:
+  facebook:
+  twitter:
+  photo:
+
+- office: Constable District 1
+  name: Bobby Ivers
+  website:
+  facebook:
+  twitter:
+  photo:
+
+- office: Constable District 3
+  name: Andy White
+  website:
+  facebook:
+  twitter:
+  photo:
+
+- office: Constable District 4
+  name: Donnie Bruner
+  website:
+  facebook:
+  twitter:
+  photo:
+
+- office: Constable District 6
+  name: Gary L. Tindle
+  website:
+  facebook:
+  twitter:
+  photo:
+
+- office: Constable District 7
+  name: Jeffrey A. Bell
+  website:
+  facebook:
+  twitter:
+  photo:
+
+- office: Constable District 7
+  name: Harold Sutton
+  website:
+  facebook:
+  twitter:
+  photo:

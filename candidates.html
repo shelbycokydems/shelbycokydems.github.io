@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2016 Democratic Candidates
+title: 2018 Democratic Candidates
 ---
 
 <div class="content-container">
@@ -9,28 +9,36 @@ title: 2016 Democratic Candidates
   </div><ul class="candidate-container">
   {% for candidate in site.data.candidates %}
     <li class="candidate-box">
+      {% if candidate.photo %}
       <img src="assets/img/candidates/{{ candidate.photo }}.jpg">
+      {% endif %}
       <h2>{{ candidate.name }}</h2>
       <h3>{{ candidate.office }}</h3>
       <ul class="icons">
+        {% if candidate.website %}
         <li class="icons-link"><a class="icons" href="http://{{ candidate.website }}">
           <span class="fa-stack fa-lg">
-          <i class="fa fa-circle fa-stack-2x twittercircle"></i>
+          <i class="fa fa-circle fa-stack-2x webcircle"></i>
           <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
           </span>
         </a></li>
+        {% endif %}
+        {% if candidate.facebook %}
         <li class="icons-link"><a class="icons" href="https://www.facebook.com/{{ candidate.facebook }}">
           <span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x facebookcircle"></i>
             <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
           </span>
         </a></li>
+        {% endif %}
+        {% if candidate.twitter %}
         <li class="icons-link"><a class="icons" href="https://twitter.com/{{ candidate.twitter }}">
           <span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x twittercircle"></i>
             <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
           </span>
         </a></li>
+        {% endif %}
       </ul>
     </li>
   {% endfor %}
