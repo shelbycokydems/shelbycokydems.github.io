@@ -10,7 +10,7 @@ title: 2018 Democratic Candidates
   {% for candidate in site.data.candidates %}
     <li class="candidate-box">
       {% if candidate.photo %}
-      <img src="assets/img/candidates/{{ candidate.photo }}.jpg">
+      <img src="assets/img/candidates/{{ candidate.photo }}.jpg" alt="{{candidate.name}} - {{candidate.office}}">
       {% endif %}
       <h2>{{ candidate.name }}</h2>
       <h3>{{ candidate.office }}</h3>

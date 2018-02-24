@@ -13,7 +13,7 @@ title: Elected Officials
       {% for official in level.officials %}
       <li class="official-box">
         {% if official.img != null %}
-          <img src="assets/img/officials/{{ official.img }}.jpg">
+          <img src="assets/img/officials/{{ official.img }}.jpg" alt="{{official.name}} - {{official.office}}">
         {% endif %}
         <h2>{{ official.name }}</h2>
         <h3>{{ official.office }}</h3>
