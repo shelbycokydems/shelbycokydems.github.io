@@ -1,132 +1,85 @@
-- office: US House of Representatives
-  name: Seth Hall
-  website: www.sethbhallforcongress.com/
-  facebook: sethhallforcongress
-  twitter: HallCongress
-  photo: seth-hall
+- office: Governor & Lt. Governor
+  name: Rocky Adkins
+  runningmate: Stephanie Horne
+  website: https://www.rockyforky.com/
+  facebook: RockyForKy
+  twitter: RockyForKy
+  photo: rocky-adkins
 
-- office: Kentucky State Senate
-  name: Dave Suetholz
-  website: www.suetholzforsenate.com/
-  facebook: suetholzforsenate
-  twitter: kentuckydave
-  photo: dave-suetholz
+- office: Governor & Lt. Governor
+  name: Andy Beshear
+  runningmate: Jacqueline Coleman
+  website: https://andybeshear.com/
+  facebook: AndyBeshearKY
+  twitter: andybeshearky
+  photo: andy-beshear
 
-- office: Kentucky House of Representatives
-  name: Bobby Lacer
-  website: www.lacer4ky.com/
-  facebook: Lacer4KY
-  twitter: bobbylacer
-  photo: bobby-lacer
+- office: Governor & Lt. Governor
+  name: Adam Edelen
+  runningmate: Gill Holland
+  website: https://adamedelen.com/
+  facebook: AdamEdelenKY
+  twitter: EdelenHolland
+  photo: adam-edelen
 
-- office: Magistrate District 1
-  name: Ross Webb
-  website:
-  facebook:
-  twitter:
-  photo: ross-webb
+- office: Governor & Lt. Governor
+  name: Geoff Young
+  runningmate: Joshua French
+  website: https://www.young4ky.com/
+  photo: geoff-young
 
-- office: Magistrate District 2
-  name: Shauna Kay Cook
-  website:
-  facebook:
-  twitter:
-  photo: shauna-cook
+- office: Secretary of State
+  name: Jason Griffith
+  website: http://www.jasonsgriffith.com/
+  facebook: JasonForSoS
+  twitter: JasonforSos
+  photo: jason-griffith
 
-- office: Magistrate District 5
-  name: Eddie Kingsolver
-  website:
-  facebook:
-  twitter:
-  photo: eddie-kingsolver
+- office: Secretary of State
+  name: Heather French Henry
+  facebook: heatherfrenchenryforky
+  photo: heather-henry
 
-- office: Magistrate District 6
-  name: Andrew "AJ" Barnett
-  website:
-  facebook: Aj-Barnett-For-Magistrate-District-6-401187970308122
-  twitter:
-  photo: aj-barnett
+- office: Secretary of State
+  name: Geoff Sebesta
+  website: http://politicsky.org/S4SoS
+  photo: geoff-sebesta
 
-- office: Magistrate District 7
-  name: Rick Long
-  website:
-  facebook:
-  twitter:
-  photo: rick-long
+- office: Attorney General
+  name: Greg Stumbo
+  website: https://stumboforag.com/
+  facebook: StumboForAG
+  twitter: StumboForAG
+  photo: greg-stumbo
 
-- office: County Clerk
-  name: Sue Carole Perry
-  website:
-  facebook:
-  twitter:
-  photo: sue-carole
+- office: Auditor
+  name: Kelsey Hayes Coots
+  website: https://www.kelseyforkentucky.com/
+  facebook: kelseyforkentucky
+  twitter: KelseyforKY
+  photo: kelsey-coots
 
-- office: Circuit Court Clerk
-  name: Austin Redmon
-  website: www.austinredmon.com/
-  facebook: AustinRedmonforCircuitCourtClerk
-  twitter:
-  photo: austin-redmon
+- office: Auditor
+  name: Sheri Donahue
+  website: https://donahueforky.com
+  facebook: Sheri4KY
+  twitter: sheridonah
+  photo: sheri-donahue
 
-- office: Property Valuation Administrator
-  name: Brad McDowell
-  website:
-  facebook:
-  twitter:
-  photo: brad-mcdowell
+- office: Auditor
+  name: Chris Tobe
+  twitter: tobecb
+  photo: chris-tobe
 
-- office: Sheriff
-  name: Gene Witt
-  website:
-  facebook: Gene-Witt-for-Shelby-County-Sheriff-1895517227432649
-  twitter:
-  photo: gene-witt
+- office: Treasurer
+  name: Michael Bowman
+  website: https://www.bowmanforkentucky.com
+  facebook: michaelbowmanky
+  photo: michael-bowman
 
-- office: Jailer
-  name: Norris Beckley
-  website:
-  facebook:
-  twitter:
-  photo: norris-beckley
-
-- office: County Surveyor
-  name: George Best
-  website:
-  facebook:
-  twitter:
-  photo:
-
-- office: Constable District 1
-  name: Bobby Ivers
-  website:
-  facebook:
-  twitter:
-  photo:
-
-- office: Constable District 3
-  name: Andy White
-  website:
-  facebook:
-  twitter:
-  photo:
-
-- office: Constable District 4
-  name: Donnie Bruner
-  website:
-  facebook:
-  twitter:
-  photo:
-
-- office: Constable District 6
-  name: Gary L. Tindle
-  website:
-  facebook:
-  twitter:
-  photo:
-
-- office: Constable District 7
-  name: Harold Sutton
-  website:
-  facebook:
-  twitter:
-  photo:
+- office: Treasurer
+  name: Josh Mers
+  website: https://joshmers.com/
+  facebook: JoshMers4KY
+  twitter: JoshMers4KY
+  photo: josh-mers

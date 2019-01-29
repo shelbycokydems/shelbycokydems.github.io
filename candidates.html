@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2018 Democratic Candidates
+title: 2019 Democratic Candidates
 ---
 
 <div class="content-container">
@@ -12,11 +12,16 @@ title: 2018 Democratic Candidates
       {% if candidate.photo %}
       <img src="assets/img/candidates/{{ candidate.photo }}.jpg" alt="{{candidate.name}} - {{candidate.office}}">
       {% endif %}
-      <h2>{{ candidate.name }}</h2>
+      {% if candidate.office == 'Governor & Lt. Governor'%}
+        <h2>{{ candidate.name }}</h2>
+        <h4>{{ candidate.runningmate }}</h4>
+      {% else %}
+        <h2>{{ candidate.name }}</h2>
+      {% endif %}
       <h3>{{ candidate.office }}</h3>
       <ul class="icons">
         {% if candidate.website %}
-        <li class="icons-link"><a class="icons" href="http://{{ candidate.website }}">
+        <li class="icons-link"><a class="icons" href="{{ candidate.website }}">
           <span class="fa-stack fa-lg">
           <i class="fa fa-circle fa-stack-2x webcircle"></i>
           <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
