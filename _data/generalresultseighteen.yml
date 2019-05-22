@@ -150,12 +150,12 @@
           - vote: 248
           - vote: 141
           - vote: 10
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 190
           - vote: 87
           - vote: 7
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 451
           - vote: 118
@@ -303,11 +303,11 @@
       votes:
           - vote: 230
           - vote: 171
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 192
           - vote: 93
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 459
           - vote: 116
@@ -450,11 +450,11 @@
       votes:
           - vote: 243
           - vote: 153
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 191
           - vote: 93
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 452
           - vote: 120
@@ -597,11 +597,11 @@
       votes:
           - vote: 233
           - vote: 159
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 183
           - vote: 102
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 451
           - vote: 118
@@ -744,11 +744,11 @@
       votes:
           - vote: 217
           - vote: 178
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 176
           - vote: 104
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 438
           - vote: 135
@@ -891,11 +891,11 @@
       votes:
           - vote: 246
           - vote: 143
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 190
           - vote: 92
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 434
           - vote: 131
@@ -965,11 +965,11 @@
       votes:
           - vote: 268
           - vote: 127
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Persimmon Ridge
       votes:
           - vote: 192
           - vote: 91
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 449
           - vote: 121

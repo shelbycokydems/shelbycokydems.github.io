@@ -69,9 +69,9 @@
     - precinct: B105 - Hooper Station
       votes:
           - vote: 38
-          - vote: 82
-          - vote: 70
-          - vote: 2
+          - vote: 54
+          - vote: 39
+          - vote: 5
     - precinct: C101 - North East Shelby
       votes:
           - vote: 78
@@ -82,7 +82,7 @@
       votes:
           - vote: 85
           - vote: 50
-          - vote: 22
+          - vote: 54
           - vote: 2
     - precinct: C103 - East Shelby
       votes:
@@ -180,13 +180,13 @@
           - vote: 31
           - vote: 19
           - vote: 2
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Long Run
       votes:
           - vote: 3
           - vote: 22
           - vote: 24
           - vote: 1
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 12
           - vote: 22
@@ -400,13 +400,13 @@
           - vote: 6
           - vote: 51
           - vote: 1
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Long Run
       votes:
           - vote: 3
           - vote: 3
           - vote: 35
           - vote: 6
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 5
           - vote: 5
@@ -590,12 +590,12 @@
           - vote: 19
           - vote: 30
           - vote: 8
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Long Run
       votes:
           - vote: 5
           - vote: 27
           - vote: 7
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 14
           - vote: 21
@@ -744,11 +744,11 @@
       votes:
           - vote: 43
           - vote: 18
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Long Run
       votes:
           - vote: 25
           - vote: 17
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 34
           - vote: 19
@@ -891,11 +891,11 @@
       votes:
           - vote: 38
           - vote: 27
-    - precinct: F104 - Todds Point
+    - precinct: F104 - Long Run
       votes:
           - vote: 18
           - vote: 23
-    - precinct: F105 - West Shelby
+    - precinct: F105 - Persimmon Ridge
       votes:
           - vote: 31
           - vote: 24
@@ -906,7 +906,7 @@
     - precinct: G102 - Shelbyville 2
       votes:
           - vote: 44
-          - vote: 41
+          - vote: 51
     - precinct: G103 - Shelbyville 3
       votes:
           - vote: 63
@@ -914,4 +914,4 @@
     - precinct: G104 - Shelbyville 4
       votes:
           - vote: 44
-          - vote: 22
+          - vote: 42
