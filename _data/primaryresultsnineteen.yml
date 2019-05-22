@@ -1,0 +1,917 @@
+- office: Governor
+  class: governor
+  candidates:
+    - candidate: Rocky Adkins
+    - candidate: Andy Beshear
+    - candidate: Adam Edelen
+    - candidate: Geoff Young
+  precincts:
+    - precinct: Absentee
+      votes:
+          - vote: 55
+          - vote: 55
+          - vote: 37
+          - vote: 1
+    - precinct: A101 - West Finchville
+      votes:
+          - vote: 29
+          - vote: 38
+          - vote: 34
+          - vote: 2
+    - precinct: A102 - South Shelby
+      votes:
+          - vote: 28
+          - vote: 46
+          - vote: 18
+          - vote: 3
+    - precinct: A103 - Charleston
+      votes:
+          - vote: 29
+          - vote: 25
+          - vote: 34
+          - vote: 6
+    - precinct: A104 - East Finchville
+      votes:
+          - vote: 30
+          - vote: 28
+          - vote: 33
+          - vote: 0
+    - precinct: A105 - Adams Station
+      votes:
+          - vote: 21
+          - vote: 47
+          - vote: 36
+          - vote: 5
+    - precinct: B101 - Southville
+      votes:
+          - vote: 47
+          - vote: 32
+          - vote: 42
+          - vote: 3
+    - precinct: B102 - Waddy
+      votes:
+          - vote: 87
+          - vote: 29
+          - vote: 55
+          - vote: 7
+    - precinct: B103 - Rockbridge
+      votes:
+          - vote: 22
+          - vote: 18
+          - vote: 21
+          - vote: 0
+    - precinct: B104 - Weissinger
+      votes:
+          - vote: 79
+          - vote: 82
+          - vote: 70
+          - vote: 2
+    - precinct: B105 - Hooper Station
+      votes:
+          - vote: 38
+          - vote: 82
+          - vote: 70
+          - vote: 2
+    - precinct: C101 - North East Shelby
+      votes:
+          - vote: 78
+          - vote: 73
+          - vote: 57
+          - vote: 5
+    - precinct: C102 - Clayvillage
+      votes:
+          - vote: 85
+          - vote: 50
+          - vote: 22
+          - vote: 2
+    - precinct: C103 - East Shelby
+      votes:
+          - vote: 45
+          - vote: 50
+          - vote: 22
+          - vote: 3
+    - precinct: C104 - Guist Creek
+      votes:
+          - vote: 66
+          - vote: 49
+          - vote: 42
+          - vote: 5
+    - precinct: C105 - Osprey Cove
+      votes:
+          - vote: 28
+          - vote: 64
+          - vote: 33
+          - vote: 2
+    - precinct: D101 - East Bagdad
+      votes:
+          - vote: 51
+          - vote: 23
+          - vote: 27
+          - vote: 5
+    - precinct: D102 - Cropper
+      votes:
+          - vote: 59
+          - vote: 48
+          - vote: 38
+          - vote: 6
+    - precinct: D103 - Jail Hill
+      votes:
+          - vote: 34
+          - vote: 47
+          - vote: 40
+          - vote: 1
+    - precinct: D104 - West Bagdad
+      votes:
+          - vote: 38
+          - vote: 29
+          - vote: 34
+          - vote: 2
+    - precinct: D105 - Boone Station
+      votes:
+          - vote: 43
+          - vote: 29
+          - vote: 26
+          - vote: 3
+    - precinct: E101 - Town N Country
+      votes:
+          - vote: 72
+          - vote: 75
+          - vote: 46
+          - vote: 1
+    - precinct: E102 - Marshall Doaks
+      votes:
+          - vote: 23
+          - vote: 35
+          - vote: 42
+          - vote: 1
+    - precinct: E103 - North Shelby
+      votes:
+          - vote: 45
+          - vote: 41
+          - vote: 56
+          - vote: 1
+    - precinct: E104 - Todds Point
+      votes:
+          - vote: 18
+          - vote: 23
+          - vote: 15
+          - vote: 4
+    - precinct: E105 - West Shelby
+      votes:
+          - vote: 9
+          - vote: 10
+          - vote: 8
+          - vote: 0
+    - precinct: F101 - Simpsonville
+      votes:
+          - vote: 14
+          - vote: 40
+          - vote: 48
+          - vote: 3
+    - precinct: F102 - South Simpsonville
+      votes:
+          - vote: 41
+          - vote: 54
+          - vote: 56
+          - vote: 5
+    - precinct: F103 - Garden Station
+      votes:
+          - vote: 18
+          - vote: 31
+          - vote: 19
+          - vote: 2
+    - precinct: F104 - Todds Point
+      votes:
+          - vote: 3
+          - vote: 22
+          - vote: 24
+          - vote: 1
+    - precinct: F105 - West Shelby
+      votes:
+          - vote: 12
+          - vote: 22
+          - vote: 29
+          - vote: 0
+    - precinct: G101 - Shelbyville 1
+      votes:
+          - vote: 42
+          - vote: 71
+          - vote: 37
+          - vote: 2
+    - precinct: G102 - Shelbyville 2
+      votes:
+          - vote: 40
+          - vote: 43
+          - vote: 25
+          - vote: 1
+    - precinct: G103 - Shelbyville 3
+      votes:
+          - vote: 54
+          - vote: 75
+          - vote: 35
+          - vote: 4
+    - precinct: G104 - Shelbyville 4
+      votes:
+          - vote: 13
+          - vote: 56
+          - vote: 21
+          - vote: 4
+
+
+- office: Secretary of State
+  class: sos
+  candidates:
+    - candidate: Jason Belcher
+    - candidate: Jason Griffith
+    - candidate: Heather French Henry
+    - candidate: Geoff Sebesta
+  precincts:
+    - precinct: Absentee
+      votes:
+          - vote: 9
+          - vote: 7
+          - vote: 126
+          - vote: 3
+    - precinct: A101 - West Finchville
+      votes:
+          - vote: 4
+          - vote: 7
+          - vote: 85
+          - vote: 3
+    - precinct: A102 - South Shelby
+      votes:
+          - vote: 6
+          - vote: 9
+          - vote: 78
+          - vote: 1
+    - precinct: A103 - Charleston
+      votes:
+          - vote: 9
+          - vote: 5
+          - vote: 75
+          - vote: 4
+    - precinct: A104 - East Finchville
+      votes:
+          - vote: 8
+          - vote: 6
+          - vote: 73
+          - vote: 2
+    - precinct: A105 - Adams Station
+      votes:
+          - vote: 12
+          - vote: 5
+          - vote: 82
+          - vote: 5
+    - precinct: B101 - Southville
+      votes:
+          - vote: 13
+          - vote: 10
+          - vote: 95
+          - vote: 4
+    - precinct: B102 - Waddy
+      votes:
+          - vote: 19
+          - vote: 20
+          - vote: 128
+          - vote: 5
+    - precinct: B103 - Rockbridge
+      votes:
+          - vote: 7
+          - vote: 0
+          - vote: 50
+          - vote: 3
+    - precinct: B104 - Weissinger
+      votes:
+          - vote: 22
+          - vote: 12
+          - vote: 189
+          - vote: 2
+    - precinct: B105 - Hooper Station
+      votes:
+          - vote: 21
+          - vote: 13
+          - vote: 89
+          - vote: 5
+    - precinct: C101 - North East Shelby
+      votes:
+          - vote: 18
+          - vote: 21
+          - vote: 157
+          - vote: 8
+    - precinct: C102 - Clayvillage
+      votes:
+          - vote: 14
+          - vote: 16
+          - vote: 150
+          - vote: 2
+    - precinct: C103 - East Shelby
+      votes:
+          - vote: 14
+          - vote: 9
+          - vote: 89
+          - vote: 1
+    - precinct: C104 - Guist Creek
+      votes:
+          - vote: 12
+          - vote: 15
+          - vote: 129
+          - vote: 2
+    - precinct: C105 - Osprey Cove
+      votes:
+          - vote: 12
+          - vote: 18
+          - vote: 89
+          - vote: 6
+    - precinct: D101 - East Bagdad
+      votes:
+          - vote: 12
+          - vote: 12
+          - vote: 73
+          - vote: 5
+    - precinct: D102 - Cropper
+      votes:
+          - vote: 15
+          - vote: 4
+          - vote: 126
+          - vote: 3
+    - precinct: D103 - Jail Hill
+      votes:
+          - vote: 11
+          - vote: 7
+          - vote: 95
+          - vote: 3
+    - precinct: D104 - West Bagdad
+      votes:
+          - vote: 6
+          - vote: 5
+          - vote: 84
+          - vote: 4
+    - precinct: D105 - Boone Station
+      votes:
+          - vote: 10
+          - vote: 8
+          - vote: 76
+          - vote: 3
+    - precinct: E101 - Town N Country
+      votes:
+          - vote: 13
+          - vote: 17
+          - vote: 150
+          - vote: 7
+    - precinct: E102 - Marshall Doaks
+      votes:
+          - vote: 10
+          - vote: 6
+          - vote: 82
+          - vote: 1
+    - precinct: E103 - North Shelby
+      votes:
+          - vote: 10
+          - vote: 12
+          - vote: 113
+          - vote: 4
+    - precinct: E104 - Todds Point
+      votes:
+          - vote: 7
+          - vote: 4
+          - vote: 42
+          - vote: 2
+    - precinct: E105 - West Shelby
+      votes:
+          - vote: 6
+          - vote: 2
+          - vote: 17
+          - vote: 0
+    - precinct: F101 - Simpsonville
+      votes:
+          - vote: 12
+          - vote: 5
+          - vote: 82
+          - vote: 2
+    - precinct: F102 - South Simpsonville
+      votes:
+          - vote: 14
+          - vote: 11
+          - vote: 121
+          - vote: 3
+    - precinct: F103 - Garden Station
+      votes:
+          - vote: 9
+          - vote: 6
+          - vote: 51
+          - vote: 1
+    - precinct: F104 - Todds Point
+      votes:
+          - vote: 3
+          - vote: 3
+          - vote: 35
+          - vote: 6
+    - precinct: F105 - West Shelby
+      votes:
+          - vote: 5
+          - vote: 5
+          - vote: 50
+          - vote: 1
+    - precinct: G101 - Shelbyville 1
+      votes:
+          - vote: 14
+          - vote: 4
+          - vote: 118
+          - vote: 3
+    - precinct: G102 - Shelbyville 2
+      votes:
+          - vote: 10
+          - vote: 9
+          - vote: 88
+          - vote: 2
+    - precinct: G103 - Shelbyville 3
+      votes:
+          - vote: 19
+          - vote: 10
+          - vote: 129
+          - vote: 5
+    - precinct: G104 - Shelbyville 4
+      votes:
+          - vote: 14
+          - vote: 8
+          - vote: 68
+          - vote: 3
+
+
+- office: State Auditor
+  class: auditor
+  candidates:
+    - candidate: Kelsey Hayes Coots
+    - candidate: Sheri Donahue
+    - candidate: Chris Tobe
+  precincts:
+    - precinct: Absentee
+      votes:
+          - vote: 30
+          - vote: 40
+          - vote: 36
+    - precinct: A101 - West Finchville
+      votes:
+          - vote: 32
+          - vote: 37
+          - vote: 8
+    - precinct: A102 - South Shelby
+      votes:
+          - vote: 31
+          - vote: 33
+          - vote: 11
+    - precinct: A103 - Charleston
+      votes:
+          - vote: 32
+          - vote: 32
+          - vote: 13
+    - precinct: A104 - East Finchville
+      votes:
+          - vote: 24
+          - vote: 34
+          - vote: 13
+    - precinct: A105 - Adams Station
+      votes:
+          - vote: 32
+          - vote: 37
+          - vote: 17
+    - precinct: B101 - Southville
+      votes:
+          - vote: 49
+          - vote: 34
+          - vote: 16
+    - precinct: B102 - Waddy
+      votes:
+          - vote: 42
+          - vote: 57
+          - vote: 28
+    - precinct: B103 - Rockbridge
+      votes:
+          - vote: 14
+          - vote: 29
+          - vote: 5
+    - precinct: B104 - Weissinger
+      votes:
+          - vote: 66
+          - vote: 74
+          - vote: 35
+    - precinct: B105 - Hooper Station
+      votes:
+          - vote: 40
+          - vote: 36
+          - vote: 15
+    - precinct: C101 - North East Shelby
+      votes:
+          - vote: 58
+          - vote: 81
+          - vote: 36
+    - precinct: C102 - Clayvillage
+      votes:
+          - vote: 61
+          - vote: 50
+          - vote: 26
+    - precinct: C103 - East Shelby
+      votes:
+          - vote: 42
+          - vote: 33
+          - vote: 20
+    - precinct: C104 - Guist Creek
+      votes:
+          - vote: 36
+          - vote: 55
+          - vote: 25
+    - precinct: C105 - Osprey Cove
+      votes:
+          - vote: 41
+          - vote: 51
+          - vote: 16
+    - precinct: D101 - East Bagdad
+      votes:
+          - vote: 23
+          - vote: 34
+          - vote: 20
+    - precinct: D102 - Cropper
+      votes:
+          - vote: 43
+          - vote: 39
+          - vote: 20
+    - precinct: D103 - Jail Hill
+      votes:
+          - vote: 35
+          - vote: 28
+          - vote: 23
+    - precinct: D104 - West Bagdad
+      votes:
+          - vote: 28
+          - vote: 32
+          - vote: 8
+    - precinct: D105 - Boone Station
+      votes:
+          - vote: 32
+          - vote: 33
+          - vote: 15
+    - precinct: E101 - Town N Country
+      votes:
+          - vote: 47
+          - vote: 67
+          - vote: 30
+    - precinct: E102 - Marshall Doaks
+      votes:
+          - vote: 39
+          - vote: 34
+          - vote: 15
+    - precinct: E103 - North Shelby
+      votes:
+          - vote: 40
+          - vote: 37
+          - vote: 21
+    - precinct: E104 - Todds Point
+      votes:
+          - vote: 16
+          - vote: 23
+          - vote: 5
+    - precinct: E105 - West Shelby
+      votes:
+          - vote: 5
+          - vote: 9
+          - vote: 5
+    - precinct: F101 - Simpsonville
+      votes:
+          - vote: 24
+          - vote: 37
+          - vote: 19
+    - precinct: F102 - South Simpsonville
+      votes:
+          - vote: 37
+          - vote: 62
+          - vote: 16
+    - precinct: F103 - Garden Station
+      votes:
+          - vote: 19
+          - vote: 30
+          - vote: 8
+    - precinct: F104 - Todds Point
+      votes:
+          - vote: 5
+          - vote: 27
+          - vote: 7
+    - precinct: F105 - West Shelby
+      votes:
+          - vote: 14
+          - vote: 21
+          - vote: 15
+    - precinct: G101 - Shelbyville 1
+      votes:
+          - vote: 36
+          - vote: 51
+          - vote: 27
+    - precinct: G102 - Shelbyville 2
+      votes:
+          - vote: 35
+          - vote: 39
+          - vote: 17
+    - precinct: G103 - Shelbyville 3
+      votes:
+          - vote: 53
+          - vote: 48
+          - vote: 22
+    - precinct: G104 - Shelbyville 4
+      votes:
+          - vote: 29
+          - vote: 40
+          - vote: 9
+
+
+- office: State Treasurer
+  class: treasurer
+  candidates:
+    - candidate: Michael Bowman
+    - candidate: Josh Mers
+  precincts:
+    - precinct: Absentee
+      votes:
+          - vote: 71
+          - vote: 43
+    - precinct: A101 - West Finchville
+      votes:
+          - vote: 54
+          - vote: 30
+    - precinct: A102 - South Shelby
+      votes:
+          - vote: 51
+          - vote: 25
+    - precinct: A103 - Charleston
+      votes:
+          - vote: 51
+          - vote: 31
+    - precinct: A104 - East Finchville
+      votes:
+          - vote: 47
+          - vote: 25
+    - precinct: A105 - Adams Station
+      votes:
+          - vote: 54
+          - vote: 35
+    - precinct: B101 - Southville
+      votes:
+          - vote: 65
+          - vote: 45
+    - precinct: B102 - Waddy
+      votes:
+          - vote: 97
+          - vote: 48
+    - precinct: B103 - Rockbridge
+      votes:
+          - vote: 33
+          - vote: 19
+    - precinct: B104 - Weissinger
+      votes:
+          - vote: 116
+          - vote: 69
+    - precinct: B105 - Hooper Station
+      votes:
+          - vote: 75
+          - vote: 32
+    - precinct: C101 - North East Shelby
+      votes:
+          - vote: 113
+          - vote: 66
+    - precinct: C102 - Clayvillage
+      votes:
+          - vote: 101
+          - vote: 56
+    - precinct: C103 - East Shelby
+      votes:
+          - vote: 61
+          - vote: 40
+    - precinct: C104 - Guist Creek
+      votes:
+          - vote: 79
+          - vote: 49
+    - precinct: C105 - Osprey Cove
+      votes:
+          - vote: 63
+          - vote: 52
+    - precinct: D101 - East Bagdad
+      votes:
+          - vote: 54
+          - vote: 37
+    - precinct: D102 - Cropper
+      votes:
+          - vote: 78
+          - vote: 47
+    - precinct: D103 - Jail Hill
+      votes:
+          - vote: 64
+          - vote: 31
+    - precinct: D104 - West Bagdad
+      votes:
+          - vote: 52
+          - vote: 32
+    - precinct: D105 - Boone Station
+      votes:
+          - vote: 50
+          - vote: 34
+    - precinct: E101 - Town N Country
+      votes:
+          - vote: 107
+          - vote: 45
+    - precinct: E102 - Marshall Doaks
+      votes:
+          - vote: 62
+          - vote: 23
+    - precinct: E103 - North Shelby
+      votes:
+          - vote: 75
+          - vote: 34
+    - precinct: E104 - Todds Point
+      votes:
+          - vote: 33
+          - vote: 17
+    - precinct: E105 - West Shelby
+      votes:
+          - vote: 14
+          - vote: 2
+    - precinct: F101 - Simpsonville
+      votes:
+          - vote: 57
+          - vote: 32
+    - precinct: F102 - South Simpsonville
+      votes:
+          - vote: 80
+          - vote: 43
+    - precinct: F103 - Garden Station
+      votes:
+          - vote: 43
+          - vote: 18
+    - precinct: F104 - Todds Point
+      votes:
+          - vote: 25
+          - vote: 17
+    - precinct: F105 - West Shelby
+      votes:
+          - vote: 34
+          - vote: 19
+    - precinct: G101 - Shelbyville 1
+      votes:
+          - vote: 61
+          - vote: 54
+    - precinct: G102 - Shelbyville 2
+      votes:
+          - vote: 63
+          - vote: 32
+    - precinct: G103 - Shelbyville 3
+      votes:
+          - vote: 86
+          - vote: 53
+    - precinct: G104 - Shelbyville 4
+      votes:
+          - vote: 56
+          - vote: 27
+
+- office: Comissioner of Agriculture
+  class: ag
+  candidates:
+    - candidate: Robert Haley Conway
+    - candidate: Joe Trigg
+  precincts:
+    - precinct: Absentee
+      votes:
+          - vote: 62
+          - vote: 56
+    - precinct: A101 - West Finchville
+      votes:
+          - vote: 42
+          - vote: 41
+    - precinct: A102 - South Shelby
+      votes:
+          - vote: 42
+          - vote: 39
+    - precinct: A103 - Charleston
+      votes:
+          - vote: 41
+          - vote: 42
+    - precinct: A104 - East Finchville
+      votes:
+          - vote: 40
+          - vote: 35
+    - precinct: A105 - Adams Station
+      votes:
+          - vote: 51
+          - vote: 41
+    - precinct: B101 - Southville
+      votes:
+          - vote: 65
+          - vote: 49
+    - precinct: B102 - Waddy
+      votes:
+          - vote: 83
+          - vote: 72
+    - precinct: B103 - Rockbridge
+      votes:
+          - vote: 36
+          - vote: 18
+    - precinct: B104 - Weissinger
+      votes:
+          - vote: 99
+          - vote: 91
+    - precinct: B105 - Hooper Station
+      votes:
+          - vote: 49
+          - vote: 62
+    - precinct: C101 - North East Shelby
+      votes:
+          - vote: 103
+          - vote: 86
+    - precinct: C102 - Clayvillage
+      votes:
+          - vote: 83
+          - vote: 81
+    - precinct: C103 - East Shelby
+      votes:
+          - vote: 56
+          - vote: 52
+    - precinct: C104 - Guist Creek
+      votes:
+          - vote: 71
+          - vote: 69
+    - precinct: C105 - Osprey Cove
+      votes:
+          - vote: 60
+          - vote: 56
+    - precinct: D101 - East Bagdad
+      votes:
+          - vote: 48
+          - vote: 48
+    - precinct: D102 - Cropper
+      votes:
+          - vote: 71
+          - vote: 61
+    - precinct: D103 - Jail Hill
+      votes:
+          - vote: 45
+          - vote: 56
+    - precinct: D104 - West Bagdad
+      votes:
+          - vote: 50
+          - vote: 36
+    - precinct: D105 - Boone Station
+      votes:
+          - vote: 43
+          - vote: 43
+    - precinct: E101 - Town N Country
+      votes:
+          - vote: 79
+          - vote: 82
+    - precinct: E102 - Marshall Doaks
+      votes:
+          - vote: 44
+          - vote: 47
+    - precinct: E103 - North Shelby
+      votes:
+          - vote: 51
+          - vote: 62
+    - precinct: E104 - Todds Point
+      votes:
+          - vote: 30
+          - vote: 21
+    - precinct: E105 - West Shelby
+      votes:
+          - vote: 12
+          - vote: 7
+    - precinct: F101 - Simpsonville
+      votes:
+          - vote: 48
+          - vote: 43
+    - precinct: F102 - South Simpsonville
+      votes:
+          - vote: 68
+          - vote: 62
+    - precinct: F103 - Garden Station
+      votes:
+          - vote: 38
+          - vote: 27
+    - precinct: F104 - Todds Point
+      votes:
+          - vote: 18
+          - vote: 23
+    - precinct: F105 - West Shelby
+      votes:
+          - vote: 31
+          - vote: 24
+    - precinct: G101 - Shelbyville 1
+      votes:
+          - vote: 60
+          - vote: 67
+    - precinct: G102 - Shelbyville 2
+      votes:
+          - vote: 44
+          - vote: 41
+    - precinct: G103 - Shelbyville 3
+      votes:
+          - vote: 63
+          - vote: 81
+    - precinct: G104 - Shelbyville 4
+      votes:
+          - vote: 44
+          - vote: 22
