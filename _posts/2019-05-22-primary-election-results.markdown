@@ -6,7 +6,7 @@ published: true
 excerpt_separator: <!--more-->
 
 ---
-View the unofficial 2019 Primary Election Results for Shelby County.
+View the unofficial 2019 Democratic Primary Election Results for Shelby County.
 
 <!--more-->
 
