@@ -1,12 +1,4 @@
 - office: Governor & Lt. Governor
-  name: Rocky Adkins
-  runningmate: Stephanie Horne
-  website: https://www.rockyforky.com/
-  facebook: RockyForKy
-  twitter: RockyForKy
-  photo: rocky-adkins
-
-- office: Governor & Lt. Governor
   name: Andy Beshear
   runningmate: Jacqueline Coleman
   website: https://andybeshear.com/
@@ -14,43 +6,12 @@
   twitter: andybeshearky
   photo: andy-beshear
 
-- office: Governor & Lt. Governor
-  name: Adam Edelen
-  runningmate: Gill Holland
-  website: https://adamedelen.com/
-  facebook: AdamEdelenKY
-  twitter: EdelenHolland
-  photo: adam-edelen
-
-- office: Governor & Lt. Governor
-  name: Geoff Young
-  runningmate: Joshua French
-  website: https://www.young4ky.com/
-  photo: geoff-young
-
-- office: Secretary of State
-  name: Jason Belcher
-  website: https://jasonforkentucky.com/
-  photo: jason-belcher
-
-- office: Secretary of State
-  name: Jason Griffith
-  website: http://www.jasonsgriffith.com/
-  facebook: JasonForSoS
-  twitter: JasonforSos
-  photo: jason-griffith
-
 - office: Secretary of State
   name: Heather French Henry
   website: https://www.heatherfrenchhenrysos.com
   facebook: heatherfrenchenryforky
   twitter: missamerica2000
   photo: heather-henry
-
-- office: Secretary of State
-  name: Geoff Sebesta
-  website: http://politicsky.org/S4SoS
-  photo: geoff-sebesta
 
 - office: Attorney General
   name: Greg Stumbo
@@ -60,24 +21,11 @@
   photo: greg-stumbo
 
 - office: Auditor
-  name: Kelsey Hayes Coots
-  website: https://www.kelseyforkentucky.com/
-  facebook: kelseyforkentucky
-  twitter: KelseyforKY
-  photo: kelsey-coots
-
-- office: Auditor
   name: Sheri Donahue
   website: https://donahueforky.com
   facebook: Sheri4KY
   twitter: sheridonah
   photo: sheri-donahue
-
-- office: Auditor
-  name: Chris Tobe
-  website: http://www.christobe.com/
-  twitter: tobecb
-  photo: chris-tobe
 
 - office: Treasurer
   name: Michael Bowman
@@ -85,21 +33,8 @@
   facebook: michaelbowmanky
   photo: michael-bowman
 
-- office: Treasurer
-  name: Josh Mers
-  website: https://joshmers.com/
-  facebook: JoshMers4KY
-  twitter: JoshMers4KY
-  photo: josh-mers
-
 - office: Commissioner of Agriculture
   name: Robert Haley Conway
   website: https://www.conwayforky19.com
   facebook: Conway2019
   photo: robert-conway
-
-- office: Commissioner of Agriculture
-  name: Joe Trigg
-  website: https://www.joetrigg.com/
-  facebook: Joe-Trigg-282276942640474
-  photo: joe-trigg
