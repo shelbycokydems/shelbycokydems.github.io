@@ -1,0 +1,96 @@
+I"F<p>View images from our 2018 Governor Martha Layne Collins Dinner</p>
+
+<!--more-->
+
+<ul class="bxslider">
+  
+    <li><img src="/assets/img/collinsdinner2018/1.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/2.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/3.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/4.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/5.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/6.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/7.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/8.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/9.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/10.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/11.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/12.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/13.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/14.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/15.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/16.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/17.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/18.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/19.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/20.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/21.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/22.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/23.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/24.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/25.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/26.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/27.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/28.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/29.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/30.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/31.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/32.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/33.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/34.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/35.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/36.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/37.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/38.jpg" /></li>
+  
+    <li><img src="/assets/img/collinsdinner2018/39.jpg" /></li>
+  
+</ul>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.bxslider').bxSlider({
+      adaptiveHeight: true,
+      mode: 'fade'
+    });
+  });
+</script>
+
+:ET

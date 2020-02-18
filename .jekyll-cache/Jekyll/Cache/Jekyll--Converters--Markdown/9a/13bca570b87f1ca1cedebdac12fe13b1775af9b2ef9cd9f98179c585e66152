@@ -1,0 +1,70 @@
+I"ç<p>View images from our Harvest Picnic with Rep. Rocky Adkins and our 2018 candidates!</p>
+
+<!--more-->
+
+<ul class="bxslider">
+  
+    <li><img src="/assets/img/harvestpicnic/1.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/2.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/3.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/5.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/6.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/7.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/8.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/9.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/10.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/11.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/12.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/13.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/14.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/15.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/16.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/17.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/18.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/19.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/20.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/21.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/22.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/23.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/24.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/25.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/26.jpg" /></li>
+  
+    <li><img src="/assets/img/harvestpicnic/27.jpg" /></li>
+  
+</ul>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.bxslider').bxSlider({
+      adaptiveHeight: true,
+      mode: 'fade'
+    });
+  });
+</script>
+
+:ET

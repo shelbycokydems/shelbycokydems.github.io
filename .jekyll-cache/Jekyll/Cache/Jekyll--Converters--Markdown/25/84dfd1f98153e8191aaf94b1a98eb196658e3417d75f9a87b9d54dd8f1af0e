@@ -1,0 +1,2532 @@
+I"ей<p>View the unofficial 2018 General Election Results for Shelby County.</p>
+
+<!--more-->
+
+<div class="tab">
+  <button class="tablinks" onclick="openRace(event, 'congress')" id="defaultOpen">4th Congressional</button>
+  <button class="tablinks" onclick="openRace(event, 'statesenate')">State Senate</button>
+  <button class="tablinks" onclick="openRace(event, 'statehouse')">State House</button>
+  <button class="tablinks" onclick="openRace(event, 'circuitclerk')">Circuit Clerk</button>
+  <button class="tablinks" onclick="openRace(event, 'sheriff')">Sheriff</button>
+  <button class="tablinks" onclick="openRace(event, 'jailer')">Jailer</button>
+  <button class="tablinks" onclick="openRace(event, '1magistrate')">1st District Magistrate</button>
+  <button class="tablinks" onclick="openRace(event, '2magistrate')">2nd District Magistrate</button>
+  <button class="tablinks" onclick="openRace(event, '5magistrate')">5th District Magistrate</button>
+  <button class="tablinks" onclick="openRace(event, '6magistrate')">6th District Magistrate</button>
+  <button class="tablinks" onclick="openRace(event, '7magistrate')">7th District Magistrate</button>
+</div>
+
+<div id="congress" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">4th Congressional District</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Thomas Massie</th>
+      
+      <th>Seth Hall</th>
+      
+      <th>Mike Moffett</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">444</td>
+      
+      <td class="race-result">316</td>
+      
+      <td class="race-result">17</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">426</td>
+      
+      <td class="race-result">168</td>
+      
+      <td class="race-result">13</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">182</td>
+      
+      <td class="race-result">217</td>
+      
+      <td class="race-result">19</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">256</td>
+      
+      <td class="race-result">112</td>
+      
+      <td class="race-result">7</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">268</td>
+      
+      <td class="race-result">100</td>
+      
+      <td class="race-result">16</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">264</td>
+      
+      <td class="race-result">160</td>
+      
+      <td class="race-result">10</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">391</td>
+      
+      <td class="race-result">130</td>
+      
+      <td class="race-result">19</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">396</td>
+      
+      <td class="race-result">167</td>
+      
+      <td class="race-result">30</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">162</td>
+      
+      <td class="race-result">67</td>
+      
+      <td class="race-result">7</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">475</td>
+      
+      <td class="race-result">302</td>
+      
+      <td class="race-result">27</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">296</td>
+      
+      <td class="race-result">169</td>
+      
+      <td class="race-result">18</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">392</td>
+      
+      <td class="race-result">250</td>
+      
+      <td class="race-result">18</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">345</td>
+      
+      <td class="race-result">157</td>
+      
+      <td class="race-result">20</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">254</td>
+      
+      <td class="race-result">187</td>
+      
+      <td class="race-result">19</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">360</td>
+      
+      <td class="race-result">165</td>
+      
+      <td class="race-result">14</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">247</td>
+      
+      <td class="race-result">250</td>
+      
+      <td class="race-result">25</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D101 - East Bagdad</td>
+      
+      <td class="race-result">215</td>
+      
+      <td class="race-result">102</td>
+      
+      <td class="race-result">10</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D102 - Cropper</td>
+      
+      <td class="race-result">383</td>
+      
+      <td class="race-result">189</td>
+      
+      <td class="race-result">13</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D103 - Jail Hill</td>
+      
+      <td class="race-result">262</td>
+      
+      <td class="race-result">189</td>
+      
+      <td class="race-result">22</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D104 - West Bagdad</td>
+      
+      <td class="race-result">257</td>
+      
+      <td class="race-result">118</td>
+      
+      <td class="race-result">14</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D105 - Boone Station</td>
+      
+      <td class="race-result">281</td>
+      
+      <td class="race-result">147</td>
+      
+      <td class="race-result">14</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E101 - Town N Country</td>
+      
+      <td class="race-result">393</td>
+      
+      <td class="race-result">294</td>
+      
+      <td class="race-result">41</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E102 - Marshall Doaks</td>
+      
+      <td class="race-result">312</td>
+      
+      <td class="race-result">153</td>
+      
+      <td class="race-result">14</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E103 - North Shelby</td>
+      
+      <td class="race-result">392</td>
+      
+      <td class="race-result">204</td>
+      
+      <td class="race-result">23</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E104 - Todds Point</td>
+      
+      <td class="race-result">241</td>
+      
+      <td class="race-result">88</td>
+      
+      <td class="race-result">8</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E105 - West Shelby</td>
+      
+      <td class="race-result">87</td>
+      
+      <td class="race-result">32</td>
+      
+      <td class="race-result">2</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">464</td>
+      
+      <td class="race-result">182</td>
+      
+      <td class="race-result">15</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">434</td>
+      
+      <td class="race-result">230</td>
+      
+      <td class="race-result">29</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">248</td>
+      
+      <td class="race-result">141</td>
+      
+      <td class="race-result">10</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">190</td>
+      
+      <td class="race-result">87</td>
+      
+      <td class="race-result">7</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">451</td>
+      
+      <td class="race-result">118</td>
+      
+      <td class="race-result">7</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">209</td>
+      
+      <td class="race-result">215</td>
+      
+      <td class="race-result">27</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">174</td>
+      
+      <td class="race-result">148</td>
+      
+      <td class="race-result">6</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">308</td>
+      
+      <td class="race-result">228</td>
+      
+      <td class="race-result">14</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">108</td>
+      
+      <td class="race-result">200</td>
+      
+      <td class="race-result">16</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="statesenate" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">State Senate</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Paul Hornback</th>
+      
+      <th>Dave Suetholz</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">465</td>
+      
+      <td class="race-result">330</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">424</td>
+      
+      <td class="race-result">193</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">195</td>
+      
+      <td class="race-result">227</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">245</td>
+      
+      <td class="race-result">137</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">258</td>
+      
+      <td class="race-result">131</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">260</td>
+      
+      <td class="race-result">176</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">396</td>
+      
+      <td class="race-result">157</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">388</td>
+      
+      <td class="race-result">224</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">157</td>
+      
+      <td class="race-result">80</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">489</td>
+      
+      <td class="race-result">332</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">293</td>
+      
+      <td class="race-result">198</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">371</td>
+      
+      <td class="race-result">289</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">330</td>
+      
+      <td class="race-result">199</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">250</td>
+      
+      <td class="race-result">223</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">341</td>
+      
+      <td class="race-result">215</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">251</td>
+      
+      <td class="race-result">278</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D101 - East Bagdad</td>
+      
+      <td class="race-result">197</td>
+      
+      <td class="race-result">133</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D102 - Cropper</td>
+      
+      <td class="race-result">363</td>
+      
+      <td class="race-result">227</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D103 - Jail Hill</td>
+      
+      <td class="race-result">261</td>
+      
+      <td class="race-result">219</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D104 - West Bagdad</td>
+      
+      <td class="race-result">238</td>
+      
+      <td class="race-result">169</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D105 - Boone Station</td>
+      
+      <td class="race-result">265</td>
+      
+      <td class="race-result">174</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E101 - Town N Country</td>
+      
+      <td class="race-result">368</td>
+      
+      <td class="race-result">374</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E102 - Marshall Doaks</td>
+      
+      <td class="race-result">309</td>
+      
+      <td class="race-result">181</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E103 - North Shelby</td>
+      
+      <td class="race-result">375</td>
+      
+      <td class="race-result">255</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E104 - Todds Point</td>
+      
+      <td class="race-result">228</td>
+      
+      <td class="race-result">108</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E105 - West Shelby</td>
+      
+      <td class="race-result">86</td>
+      
+      <td class="race-result">34</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">467</td>
+      
+      <td class="race-result">197</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">423</td>
+      
+      <td class="race-result">280</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">230</td>
+      
+      <td class="race-result">171</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">192</td>
+      
+      <td class="race-result">93</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">459</td>
+      
+      <td class="race-result">116</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">202</td>
+      
+      <td class="race-result">254</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">163</td>
+      
+      <td class="race-result">170</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">307</td>
+      
+      <td class="race-result">263</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">114</td>
+      
+      <td class="race-result">219</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="statehouse" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">State House</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Rob Rothenburger</th>
+      
+      <th>Bobby Lacer</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">493</td>
+      
+      <td class="race-result">295</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">435</td>
+      
+      <td class="race-result">177</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">212</td>
+      
+      <td class="race-result">211</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">260</td>
+      
+      <td class="race-result">121</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">274</td>
+      
+      <td class="race-result">117</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">281</td>
+      
+      <td class="race-result">155</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">420</td>
+      
+      <td class="race-result">129</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">414</td>
+      
+      <td class="race-result">195</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">162</td>
+      
+      <td class="race-result">73</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">514</td>
+      
+      <td class="race-result">297</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">311</td>
+      
+      <td class="race-result">171</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">415</td>
+      
+      <td class="race-result">247</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">350</td>
+      
+      <td class="race-result">175</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">274</td>
+      
+      <td class="race-result">196</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">362</td>
+      
+      <td class="race-result">191</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">257</td>
+      
+      <td class="race-result">275</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D101 - East Bagdad</td>
+      
+      <td class="race-result">228</td>
+      
+      <td class="race-result">111</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D102 - Cropper</td>
+      
+      <td class="race-result">413</td>
+      
+      <td class="race-result">176</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D103 - Jail Hill</td>
+      
+      <td class="race-result">288</td>
+      
+      <td class="race-result">187</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D104 - West Bagdad</td>
+      
+      <td class="race-result">279</td>
+      
+      <td class="race-result">128</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D105 - Boone Station</td>
+      
+      <td class="race-result">306</td>
+      
+      <td class="race-result">138</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E101 - Town N Country</td>
+      
+      <td class="race-result">424</td>
+      
+      <td class="race-result">311</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E102 - Marshall Doaks</td>
+      
+      <td class="race-result">330</td>
+      
+      <td class="race-result">152</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E103 - North Shelby</td>
+      
+      <td class="race-result">393</td>
+      
+      <td class="race-result">233</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E104 - Todds Point</td>
+      
+      <td class="race-result">245</td>
+      
+      <td class="race-result">92</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E105 - West Shelby</td>
+      
+      <td class="race-result">86</td>
+      
+      <td class="race-result">35</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">472</td>
+      
+      <td class="race-result">189</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">456</td>
+      
+      <td class="race-result">240</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">243</td>
+      
+      <td class="race-result">153</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">191</td>
+      
+      <td class="race-result">93</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">452</td>
+      
+      <td class="race-result">120</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">229</td>
+      
+      <td class="race-result">223</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">189</td>
+      
+      <td class="race-result">143</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">339</td>
+      
+      <td class="race-result">229</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">134</td>
+      
+      <td class="race-result">193</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="circuitclerk" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">Circuit Clerk</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Wendy Graney</th>
+      
+      <th>Austin Redmon</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">419</td>
+      
+      <td class="race-result">360</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">402</td>
+      
+      <td class="race-result">204</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">178</td>
+      
+      <td class="race-result">239</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">246</td>
+      
+      <td class="race-result">129</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">241</td>
+      
+      <td class="race-result">148</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">248</td>
+      
+      <td class="race-result">186</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">321</td>
+      
+      <td class="race-result">226</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">343</td>
+      
+      <td class="race-result">264</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">129</td>
+      
+      <td class="race-result">105</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">446</td>
+      
+      <td class="race-result">345</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">266</td>
+      
+      <td class="race-result">222</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">355</td>
+      
+      <td class="race-result">307</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">320</td>
+      
+      <td class="race-result">208</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">231</td>
+      
+      <td class="race-result">230</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">362</td>
+      
+      <td class="race-result">191</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">250</td>
+      
+      <td class="race-result">274</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D101 - East Bagdad</td>
+      
+      <td class="race-result">311</td>
+      
+      <td class="race-result">278</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D102 - Cropper</td>
+      
+      <td class="race-result">413</td>
+      
+      <td class="race-result">176</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D103 - Jail Hill</td>
+      
+      <td class="race-result">244</td>
+      
+      <td class="race-result">231</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D104 - West Bagdad</td>
+      
+      <td class="race-result">208</td>
+      
+      <td class="race-result">198</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D105 - Boone Station</td>
+      
+      <td class="race-result">258</td>
+      
+      <td class="race-result">186</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E101 - Town N Country</td>
+      
+      <td class="race-result">367</td>
+      
+      <td class="race-result">362</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E102 - Marshall Doaks</td>
+      
+      <td class="race-result">271</td>
+      
+      <td class="race-result">211</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E103 - North Shelby</td>
+      
+      <td class="race-result">370</td>
+      
+      <td class="race-result">249</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E104 - Todds Point</td>
+      
+      <td class="race-result">231</td>
+      
+      <td class="race-result">99</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E105 - West Shelby</td>
+      
+      <td class="race-result">78</td>
+      
+      <td class="race-result">40</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">464</td>
+      
+      <td class="race-result">187</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">430</td>
+      
+      <td class="race-result">261</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">233</td>
+      
+      <td class="race-result">159</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">183</td>
+      
+      <td class="race-result">102</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">451</td>
+      
+      <td class="race-result">118</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">205</td>
+      
+      <td class="race-result">250</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">152</td>
+      
+      <td class="race-result">178</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">284</td>
+      
+      <td class="race-result">281</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">116</td>
+      
+      <td class="race-result">213</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="sheriff" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">Sheriff</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Mark Moore</th>
+      
+      <th>Gene Witt</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">405</td>
+      
+      <td class="race-result">385</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">371</td>
+      
+      <td class="race-result">236</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">173</td>
+      
+      <td class="race-result">248</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">234</td>
+      
+      <td class="race-result">138</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">249</td>
+      
+      <td class="race-result">143</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">261</td>
+      
+      <td class="race-result">171</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">387</td>
+      
+      <td class="race-result">162</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">380</td>
+      
+      <td class="race-result">241</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">138</td>
+      
+      <td class="race-result">99</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">453</td>
+      
+      <td class="race-result">360</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">282</td>
+      
+      <td class="race-result">205</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">328</td>
+      
+      <td class="race-result">337</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">356</td>
+      
+      <td class="race-result">174</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">229</td>
+      
+      <td class="race-result">241</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">309</td>
+      
+      <td class="race-result">243</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">258</td>
+      
+      <td class="race-result">267</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D101 - East Bagdad</td>
+      
+      <td class="race-result">215</td>
+      
+      <td class="race-result">123</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D102 - Cropper</td>
+      
+      <td class="race-result">310</td>
+      
+      <td class="race-result">277</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D103 - Jail Hill</td>
+      
+      <td class="race-result">257</td>
+      
+      <td class="race-result">219</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D104 - West Bagdad</td>
+      
+      <td class="race-result">215</td>
+      
+      <td class="race-result">193</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D105 - Boone Station</td>
+      
+      <td class="race-result">246</td>
+      
+      <td class="race-result">195</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E101 - Town N Country</td>
+      
+      <td class="race-result">370</td>
+      
+      <td class="race-result">365</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E102 - Marshall Doaks</td>
+      
+      <td class="race-result">287</td>
+      
+      <td class="race-result">197</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E103 - North Shelby</td>
+      
+      <td class="race-result">358</td>
+      
+      <td class="race-result">271</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E104 - Todds Point</td>
+      
+      <td class="race-result">217</td>
+      
+      <td class="race-result">114</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E105 - West Shelby</td>
+      
+      <td class="race-result">76</td>
+      
+      <td class="race-result">41</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">443</td>
+      
+      <td class="race-result">212</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">392</td>
+      
+      <td class="race-result">305</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">217</td>
+      
+      <td class="race-result">178</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">176</td>
+      
+      <td class="race-result">104</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">438</td>
+      
+      <td class="race-result">135</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">222</td>
+      
+      <td class="race-result">232</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">166</td>
+      
+      <td class="race-result">167</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">282</td>
+      
+      <td class="race-result">278</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">110</td>
+      
+      <td class="race-result">218</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="jailer" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">Jailer</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Darrell Cox</th>
+      
+      <th>Norris Beckley</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">439</td>
+      
+      <td class="race-result">340</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">414</td>
+      
+      <td class="race-result">183</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">170</td>
+      
+      <td class="race-result">247</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">246</td>
+      
+      <td class="race-result">126</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">261</td>
+      
+      <td class="race-result">124</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">256</td>
+      
+      <td class="race-result">164</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">406</td>
+      
+      <td class="race-result">135</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">446</td>
+      
+      <td class="race-result">171</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">156</td>
+      
+      <td class="race-result">72</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">464</td>
+      
+      <td class="race-result">333</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">300</td>
+      
+      <td class="race-result">183</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">424</td>
+      
+      <td class="race-result">238</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">372</td>
+      
+      <td class="race-result">150</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">249</td>
+      
+      <td class="race-result">212</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">346</td>
+      
+      <td class="race-result">194</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">249</td>
+      
+      <td class="race-result">270</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D101 - East Bagdad</td>
+      
+      <td class="race-result">235</td>
+      
+      <td class="race-result">102</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D102 - Cropper</td>
+      
+      <td class="race-result">399</td>
+      
+      <td class="race-result">180</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D103 - Jail Hill</td>
+      
+      <td class="race-result">261</td>
+      
+      <td class="race-result">209</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D104 - West Bagdad</td>
+      
+      <td class="race-result">284</td>
+      
+      <td class="race-result">120</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">D105 - Boone Station</td>
+      
+      <td class="race-result">281</td>
+      
+      <td class="race-result">158</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E101 - Town N Country</td>
+      
+      <td class="race-result">353</td>
+      
+      <td class="race-result">366</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E102 - Marshall Doaks</td>
+      
+      <td class="race-result">299</td>
+      
+      <td class="race-result">181</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E103 - North Shelby</td>
+      
+      <td class="race-result">359</td>
+      
+      <td class="race-result">259</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E104 - Todds Point</td>
+      
+      <td class="race-result">223</td>
+      
+      <td class="race-result">106</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">E105 - West Shelby</td>
+      
+      <td class="race-result">91</td>
+      
+      <td class="race-result">25</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">439</td>
+      
+      <td class="race-result">196</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">416</td>
+      
+      <td class="race-result">273</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">246</td>
+      
+      <td class="race-result">143</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">190</td>
+      
+      <td class="race-result">92</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">434</td>
+      
+      <td class="race-result">131</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">201</td>
+      
+      <td class="race-result">248</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">150</td>
+      
+      <td class="race-result">174</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">281</td>
+      
+      <td class="race-result">275</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">114</td>
+      
+      <td class="race-result">214</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="1magistrate" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">1st District Magistrate</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Gary Walls</th>
+      
+      <th>Ross Webb</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">39</td>
+      
+      <td class="race-result">35</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G101 - Shelbyville 1</td>
+      
+      <td class="race-result">217</td>
+      
+      <td class="race-result">236</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G102 - Shelbyville 2</td>
+      
+      <td class="race-result">173</td>
+      
+      <td class="race-result">152</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G103 - Shelbyville 3</td>
+      
+      <td class="race-result">336</td>
+      
+      <td class="race-result">226</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">G104 - Shelbyville 4</td>
+      
+      <td class="race-result">98</td>
+      
+      <td class="race-result">230</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="2magistrate" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">2nd District Magistrate</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Charlie Metzger</th>
+      
+      <th>Shauna Kay Cook</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">81</td>
+      
+      <td class="race-result">41</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F101 - Simpsonville</td>
+      
+      <td class="race-result">492</td>
+      
+      <td class="race-result">170</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F102 - South Simpsonville</td>
+      
+      <td class="race-result">466</td>
+      
+      <td class="race-result">227</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F103 - Garden Station</td>
+      
+      <td class="race-result">268</td>
+      
+      <td class="race-result">127</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F104 - Persimmon Ridge</td>
+      
+      <td class="race-result">192</td>
+      
+      <td class="race-result">91</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">F105 - Persimmon Ridge</td>
+      
+      <td class="race-result">449</td>
+      
+      <td class="race-result">121</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="5magistrate" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">5th District Magistrate</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Robbie Smither</th>
+      
+      <th>Eddie Kingsolver</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">52</td>
+      
+      <td class="race-result">87</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C101 - North East Shelby</td>
+      
+      <td class="race-result">319</td>
+      
+      <td class="race-result">347</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C102 - Clayvillage</td>
+      
+      <td class="race-result">304</td>
+      
+      <td class="race-result">224</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C103 - East Shelby</td>
+      
+      <td class="race-result">185</td>
+      
+      <td class="race-result">287</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C104 - Guist Creek</td>
+      
+      <td class="race-result">287</td>
+      
+      <td class="race-result">264</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">C105 - Osprey Cove</td>
+      
+      <td class="race-result">257</td>
+      
+      <td class="race-result">267</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="6magistrate" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">6th District Magistrate</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Brock Lisby</th>
+      
+      <th>A.J. Barnett</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">101</td>
+      
+      <td class="race-result">55</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B101 - Southville</td>
+      
+      <td class="race-result">432</td>
+      
+      <td class="race-result">124</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B102 - Waddy</td>
+      
+      <td class="race-result">420</td>
+      
+      <td class="race-result">196</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B103 - Rockbridge</td>
+      
+      <td class="race-result">145</td>
+      
+      <td class="race-result">91</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B104 - Weissinger</td>
+      
+      <td class="race-result">513</td>
+      
+      <td class="race-result">299</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">B105 - Hooper Station</td>
+      
+      <td class="race-result">311</td>
+      
+      <td class="race-result">174</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<div id="7magistrate" class="tabcontent">
+<table class="race-results">
+  <thead>
+    <tr><th class="race-office" colspan="5">7th District Magistrate</th></tr>
+    <tr class="race-candidates">
+      <th>Precinct</th>
+      
+      <th>Danny Eades</th>
+      
+      <th>Rick Long</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+      <td class="race-precinct">Absentee</td>
+      
+      <td class="race-result">54</td>
+      
+      <td class="race-result">32</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A101 - West Finchville</td>
+      
+      <td class="race-result">460</td>
+      
+      <td class="race-result">152</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A102 - South Shelby</td>
+      
+      <td class="race-result">189</td>
+      
+      <td class="race-result">218</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A103 - Charleston</td>
+      
+      <td class="race-result">259</td>
+      
+      <td class="race-result">107</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A104 - East Finchville</td>
+      
+      <td class="race-result">287</td>
+      
+      <td class="race-result">105</td>
+      
+      </tr>
+    
+      <tr>
+      <td class="race-precinct">A105 - Adams Station</td>
+      
+      <td class="race-result">281</td>
+      
+      <td class="race-result">147</td>
+      
+      </tr>
+    
+  </tbody>
+</table>
+</div>
+
+<script>
+
+document.getElementById("defaultOpen").click();
+
+function openRace(evt, raceName){
+  var i, tabcontent, tablinks;
+
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++){
+    tabcontent[i].style.display = "none";
+  }
+
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++){
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  document.getElementById(raceName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+<style>
+  .tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+
+  .tab button:hover {
+    background-color: #ddd;
+  }
+
+  .tab button.active {
+    background-color: #ccc;
+  }
+
+  .tabcontent {
+    display: none;
+  }
+
+  .race-office {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  .race-results {
+    margin: 10px 0;
+  }
+
+  .race-results thead {
+    border-bottom: 1px solid black;
+  }
+
+  .race-precinct {
+    text-align: left;
+  }
+
+  .race-result {
+    text-align: center;
+  }
+
+  .race-results tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .race-candidates th{
+    padding: 5px 10px 0px 10px;
+  }
+</style>
+
+:ET

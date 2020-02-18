@@ -1,31 +1,32 @@
 - type: State Constitutional Democratic Officers
   officials:
 
-  - office: Secretary of State
-    name: Alison Lundergan Grimes
-    img: Alison-Grimes
-
-  - office: Attorney General
+  - office: Governor of Kentucky
     name: Andy Beshear
     img: Andy-Beshear
+
+  - office: Lt. Governor of Kentucky
+    name: Jacqueline Coleman
+    img: jacqueline-coleman
 
 - type: County Democratic Elected Officers
   officials:
 
-  - office: Property Valuation Administrator
-    name: Brad McDowell
-
   - office: County Clerk
     name: Sue Carole Perry
+    img: sue-carole
 
-  - office: County Surveyor
-    name: George R. Best
+  - office: Property Valuation Administrator
+    name: Brad McDowell
+    img: brad-mcdowell
 
   - office: District 1 Magistrate
     name: Ross Webb
+    img: ross-webb
 
   - office: District 5 Magistrate
     name: Eddie Kingsolver
+    img: eddie-kingsolver
 
   - office: District 1 Constable
     name: Bobby Ivers
@@ -35,3 +36,6 @@
 
   - office: District 7 Constable
     name: Harold W. Sutton
+
+  - office: County Surveyor
+    name: George R. Best

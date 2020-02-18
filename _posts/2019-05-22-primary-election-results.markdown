@@ -65,6 +65,15 @@ function openRace(evt, raceName){
   document.getElementById(raceName).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+var table = document.getElementsByClassName("race-results");
+
+for(var i = 0, row; row = table.row[i]; i++){
+  for(var j = 1, cell; cell = row.cells[j]; j++){
+    precinctTotal += parseInt(cell[j]);
+
+  }
+}
 </script>
 <style>
   .tab {

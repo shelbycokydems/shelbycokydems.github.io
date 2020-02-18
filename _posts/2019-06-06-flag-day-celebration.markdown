@@ -6,5 +6,5 @@ published: true
 excerpt_separator: <!--more-->
 ---
 
-<img src="/assets/img/flag-day.JPG" style="max-width: 100%;">
+<img src="/assets/img/flag-day.JPG" alt="Democratic Party Flag Day Celebration" style="max-width: 100%;">
 <!--more-->

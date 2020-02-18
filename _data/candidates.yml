@@ -1,40 +1,124 @@
-- office: Governor & Lt. Governor
-  name: Andy Beshear
-  runningmate: Jacqueline Coleman
-  website: https://andybeshear.com/
-  facebook: AndyBeshearKY
-  twitter: andybeshearky
-  photo: andy-beshear
+- office: State Representative
+  name: Will Barnett
+  website: https://www.votewillbarnett.org
+  facebook: VoteWillBarnett
+  twitter: will_barnett_ky
+  photo: will-barnett
 
-- office: Secretary of State
-  name: Heather French Henry
-  website: https://www.heatherfrenchhenrysos.com
-  facebook: heatherfrenchenryforky
-  twitter: missamerica2000
-  photo: heather-henry
+- office: US Representative
+  name: Shannon Fabert
+  website: https://fabert2020.org
+  facebook: fabert2020
+  twitter: Fabert2020
+  photo: shannon-fabert
 
-- office: Attorney General
-  name: Greg Stumbo
-  website: https://stumboforag.com/
-  facebook: StumboForAG
-  twitter: StumboForAG
-  photo: greg-stumbo
+- office: US Representative
+  name: Alexandra Owensby
+  website: https://www.amowensby.com
+  facebook: amoforthepeople
+  twitter: amowensby
+  photo: alexandra-owensby
 
-- office: Auditor
-  name: Sheri Donahue
-  website: https://donahueforky.com
-  facebook: Sheri4KY
-  twitter: sheridonah
-  photo: sheri-donahue
+- office: US Senator
+  name: Jimmy Ausbrooks
+  website: https://jausbrooks.wixsite.com/mysite
+  facebook: AusbrooksforSenate
+  twitter: jimmy4congress
+  photo: jimmy-ausbrooks
 
-- office: Treasurer
-  name: Michael Bowman
-  website: https://www.bowmanforkentucky.com
-  facebook: michaelbowmanky
-  photo: michael-bowman
+- office: US Senator
+  name: Mike Broihier
+  website: https://mikeforky.com
+  facebook: mikebroihierky
+  twitter: mikeforky
+  photo: mike-broihier
 
-- office: Commissioner of Agriculture
-  name: Robert Haley Conway
-  website: https://www.conwayforky19.com
-  facebook: Conway2019
-  photo: robert-conway
+- office: US Senator
+  name: Charles Booker
+  website: https://bookerforkentucky.com
+  facebook: Booker4KY
+  twitter: Booker4KY
+  photo: charles-booker
+
+- office: US Senator
+  name: Maggie Jo Hilliard
+  website: https://www.electmojo.com
+  facebook: electmojo
+  twitter: electmojo
+  photo: maggie-jo
+
+- office: US Senator
+  name: Amy McGrath
+  website: https://amymcgrath.com
+  facebook: AmyMcGrathKY
+  twitter: AmyMcGrathKY
+  photo: amy-mcgrath
+
+- office: US Senator
+  name: Eric Rothmuller
+  website: https://ericrothmuller.com
+  facebook: ericrothmuller
+  twitter: EricRothmuller
+  photo: eric-rothmuller
+
+- office: US Senator
+  name: Bennie Smith
+  website: http://benniejsmith.com
+  facebook: BJSMITH4US20
+  twitter: BennieJSmith1
+  photo: bennie-smith
+
+- office: President of the United States
+  name: Joe Biden
+  website: https://joebiden.com
+  facebook: joebiden
+  twitter: joebiden
+  photo: joe-biden
+
+- office: President of the United States
+  name: Michael Bloomberg
+  website: https://www.mikebloomberg.com
+  facebook: TeamMike2020
+  twitter: mike2020
+  photo: michael-bloomberg
+
+- office: President of the United States
+  name: Pete Buttigieg
+  website: https://peteforamerica.com
+  facebook: petebuttigieg1
+  twitter: PeteButtigieg
+  photo: pete-buttigieg
+
+- office: President of the United States
+  name: Tulsi Gabbard
+  facebook: TulsiGabbard
+  twitter: tulsigabbard
+  photo: tulsi-gabbard
+
+- office: President of the United States
+  name: Amy Klobuchar
+  website: https://amyklobuchar.com
+  facebook: amyklobuchar
+  twitter: amyklobuchar
+  photo: amy-klobuchar
+
+- office: President of the United States
+  name: Bernie Sanders
+  website: https://berniesanders.com
+  facebook: berniesanders
+  twitter: berniesanders
+  photo: bernie-sanders
+
+- office: President of the United States
+  name: Tom Steyer
+  website: https://www.tomsteyer.com
+  facebook: officialtomsteyer
+  twitter: tomsteyer
+  photo: tom-steyer
+
+- office: President of the United States
+  name: Elizabeth Warren
+  website: https://elizabethwarren.com
+  facebook: ElizabethWarren
+  twitter: ewarren
+  photo: elizabeth-warren
