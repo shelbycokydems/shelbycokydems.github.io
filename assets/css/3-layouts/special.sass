@@ -24,6 +24,7 @@
   .special__title
     font-size: 1em
     font-family: Montserrat
+    color: white
 
   .special__details
     font-size: 0.5em
@@ -43,6 +44,58 @@
   font-size: 2em
   font-weight: 700
 
+.info-container
+    font-size: 1.25em
+
 .info
   padding-bottom: 20px
-  font-size: 1.5em
+
+.reorg-hero
+  +background-image(linear-gradient(rgba($secondary-blue, 0.65), rgba($secondary-blue, 0.65)), url(/assets/img/gallrein.jpg))
+  background-position: 0 25%
+  background-repeat: no-repeat
+  background-size: cover
+  padding-bottom: 3em
+
+.reorg__details
+  +outer-container()
+  font-size: .25em
+
+.reorg__dates
+  +span-columns(3)
+  color: white
+
+  +media($screen)
+    p
+      font-size: 20px
+
+  .reorg__title
+    margin: 0
+    height: 100px
+
+  +media($tablet)
+    +span-columns(8)
+    text-align: center
+
+  +media($mobile)
+    +span-columns(4)
+    text-align: center
+
+.reorg-info
+  +outer-container()
+  padding-bottom: 50px
+
+
+.reorg-info-block
+  +span-columns(6)
+
+  h5
+    margin: 0
+    font-size: 1.25em
+
+  th, td
+    padding: 5px
+    text-align: center
+
+  img
+    width: 100%

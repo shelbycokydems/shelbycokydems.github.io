@@ -382,7 +382,7 @@ h3 {
   line-height: 1.38; }
 
 h4 {
-  font-size: 1.33;
+  font-size: 1.33em;
   line-height: 1.38; }
 
 p {
@@ -1239,7 +1239,8 @@ footer {
   padding-top: 1em; }
   .heroimage__text--special .special__title {
     font-size: 1em;
-    font-family: Montserrat; }
+    font-family: Montserrat;
+    color: white; }
   .heroimage__text--special .special__details {
     font-size: 0.5em; }
     .heroimage__text--special .special__details a {
@@ -1257,9 +1258,88 @@ footer {
   font-size: 2em;
   font-weight: 700; }
 
+.info-container {
+  font-size: 1.25em; }
+
 .info {
-  padding-bottom: 20px;
-  font-size: 1.5em; }
+  padding-bottom: 20px; }
+
+.reorg-hero {
+  background-image: -webkit-linear-gradient(rgba(15, 36, 70, 0.65), rgba(15, 36, 70, 0.65)), url(/assets/img/gallrein.jpg);
+  background-image: linear-gradient(rgba(15, 36, 70, 0.65), rgba(15, 36, 70, 0.65)), url(/assets/img/gallrein.jpg);
+  background-position: 0 25%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 3em; }
+
+.reorg__details {
+  max-width: 85.625em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: .25em; }
+  .reorg__details::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+.reorg__dates {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 23.23176%;
+  color: white; }
+  .reorg__dates:last-child {
+    margin-right: 0; }
+  @media screen and (min-width: 1231px) {
+    .reorg__dates p {
+      font-size: 20px; } }
+  .reorg__dates .reorg__title {
+    margin: 0;
+    height: 100px; }
+  @media screen and (min-width: 601px) and (max-width: 1230px) {
+    .reorg__dates {
+      float: left;
+      display: block;
+      margin-right: 3.57866%;
+      width: 100%;
+      text-align: center; }
+      .reorg__dates:last-child {
+        margin-right: 0; } }
+  @media screen and (max-width: 600px) {
+    .reorg__dates {
+      float: left;
+      display: block;
+      margin-right: 7.42297%;
+      width: 100%;
+      text-align: center; }
+      .reorg__dates:last-child {
+        margin-right: 0; } }
+
+.reorg-info {
+  max-width: 85.625em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px; }
+  .reorg-info::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+.reorg-info-block {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 48.82117%; }
+  .reorg-info-block:last-child {
+    margin-right: 0; }
+  .reorg-info-block h5 {
+    margin: 0;
+    font-size: 1.25em; }
+  .reorg-info-block th, .reorg-info-block td {
+    padding: 5px;
+    text-align: center; }
+  .reorg-info-block img {
+    width: 100%; }
 
 .yd-hero-image {
   background-image: -webkit-linear-gradient(rgba(15, 36, 70, 0.1), rgba(15, 36, 70, 0.1)), url(/assets/img/horse.jpg);
